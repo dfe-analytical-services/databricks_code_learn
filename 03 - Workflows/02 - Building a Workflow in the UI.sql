@@ -48,7 +48,7 @@
 -- MAGIC
 -- MAGIC To do this we'll need to `ALTER` the `OWNER TO` the name of the group that owns the catalog. This will be done by one of the notebooks in the workflow, but we need to add it as a parameter so that notebook is able to set the permissions to the correct group. 
 -- MAGIC
--- MAGIC To find the group name navigate to your catalog in the ['Catalog Explorer'](https://adb-5037484389568426.6.azuredatabricks.net/explore/data?o=5037484389568426) and then click the 'Permissions' tab. There should be a table with the headings 'Principal', 'Privilege' and 'Object'. You'll want to copy the 'Principle' name with "RWC" (Read / Write / Create) in it and add it as the value for the 'owner_group' job parameter (see below).
+-- MAGIC To find the group name navigate to your catalog in the 'Catalog Explorer' and then click the 'Permissions' tab. There should be a table with the headings 'Principal', 'Privilege' and 'Object'. You'll want to copy the 'Principle' name with "RWC" (Read / Write / Create) in it and add it as the value for the 'owner_group' job parameter (see below).
 -- MAGIC
 -- MAGIC ![Catalog group name](../images/workflow-catalog-group.png)
 -- MAGIC
@@ -83,7 +83,7 @@
 -- MAGIC
 -- MAGIC In the 'Git information' box put the following settings and click 'Confirm':
 -- MAGIC
--- MAGIC - Git repository URL: https://dfe-gov-uk.visualstudio.com/official-statistics-production/_git/databricks_code_learn
+-- MAGIC - Git repository URL: https://github.com/dfe-analytical-services/databricks_code_learn
 -- MAGIC - Git provider: Azure DevOps Services
 -- MAGIC - Git reference: main (branch)
 -- MAGIC

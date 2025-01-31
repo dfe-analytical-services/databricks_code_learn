@@ -279,8 +279,8 @@ str(select_from_table_task)
 # COMMAND ----------
 
 git_source_list <- list(
-          git_url = "https://dfe-gov-uk.visualstudio.com/official-statistics-production/_git/databricks_code_learn",
-          git_provider = "azureDevOpsServices",
+          git_url = "https://github.com/dfe-analytical-services/databricks_code_learn",
+          git_provider = "gitHub",
           git_branch = "main"
         )
 
@@ -355,7 +355,7 @@ workflow
 # MAGIC     workflow <- jobsCreate(client,
 # MAGIC     name = job_name,
 # MAGIC     git_source = list(
-# MAGIC         git_url = "https://dfe-gov-uk.visualstudio.com/official-statistics-production/_git/databricks_code_learn",
+# MAGIC         git_url = "https://github.com/dfe-analytical-services/databricks_code_learn",
 # MAGIC         git_provider = "azureDevOpsServices",
 # MAGIC         git_branch = "main"
 # MAGIC       ),
