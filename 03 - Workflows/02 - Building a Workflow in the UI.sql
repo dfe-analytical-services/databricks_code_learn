@@ -84,7 +84,7 @@
 -- MAGIC In the 'Git information' box put the following settings and click 'Confirm':
 -- MAGIC
 -- MAGIC - Git repository URL: https://github.com/dfe-analytical-services/databricks_code_learn
--- MAGIC - Git provider: Azure DevOps Services
+-- MAGIC - Git provider: GitHub
 -- MAGIC - Git reference: main (branch)
 -- MAGIC
 -- MAGIC This ensures that the workflow runs the code from this Git repository on the 'main' branch.
@@ -113,6 +113,7 @@
 -- MAGIC
 -- MAGIC - Task name: create_table_if_not_exists
 -- MAGIC - Path: resources/workflow notebooks/02 - Create table if not exist
+-- MAGIC - Compute: _your personal cluster_
 -- MAGIC
 -- MAGIC
 
@@ -127,6 +128,7 @@
 -- MAGIC
 -- MAGIC - Task name: insert_data
 -- MAGIC - Path: resources/workflow notebooks/03 - Insert data
+-- MAGIC - Compute: _your personal cluster_
 
 -- COMMAND ----------
 
@@ -139,6 +141,7 @@
 -- MAGIC
 -- MAGIC - Task name: select_from_table
 -- MAGIC - Path: resources/workflow notebooks/04 - Select from table
+-- MAGIC - Compute: _your personal cluster_
 
 -- COMMAND ----------
 

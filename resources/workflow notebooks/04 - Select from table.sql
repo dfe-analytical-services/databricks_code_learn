@@ -17,7 +17,7 @@
 
 -- COMMAND ----------
 
-USE CATALOG ${catalog};
+USE CATALOG IDENTIFIER(:catalog);
 USE shared;
 
 -- COMMAND ----------
