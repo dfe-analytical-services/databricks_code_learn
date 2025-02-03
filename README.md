@@ -108,14 +108,16 @@ Each dataset that is stored in the training catalog is kept in it's own schema (
          - steam_game_reviews (table)
 
 # Contribute
-If you want to add lessons to this repository you should create a new branch by clicking the git button in the top left corner of this notebook. It will always have the title of the branch you are on, so presuming you just cloned this repo it will currently say 'main'.
+If you want to add exercises or tutorials to this repository you can create a new branch by clicking the git button in the top left corner of this notebook. It will always have the title of the branch you are on, so presuming you just cloned this repo it will currently say 'main'.
 
 ![Git button](images/git-button.png)
 
 This will allow you to create a new branch where you can add a new folder for the exercise you want to contribute. Once you have completed writing and testing it, you can raise a pull request on the GitHub repository [`databricks_code_learn`](https://github.com/dfe-analytical-services/databricks_code_learn.git).
 
-Exercises should focus on completing a single process within the databricks environment using the open data sources above where possible. 
-
 Nothing pushed to the repository should not contain any sensitive data including URLs of organisational environments, services or data, or personally identifiable information of any kind. This extends to images and screenshots within the repository as well.
 
 Code should be portable, meaning that no changes to the code should have to be made by a user to successfully run through the exercises. Where values may be different between users _widgets_ or other methods of parameterisation should be used.
+
+Exercises should focus on completing a single process within the databricks environment using the open data sources above where possible. 
+
+Where possible exercises should focus on performing a task in a single language, or a single language with some SQL for data retrieval.
