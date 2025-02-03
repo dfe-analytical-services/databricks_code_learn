@@ -1,16 +1,16 @@
 # Introduction 
 
-This repository is designed to have work-along exercises that explore some of the functionality of Databricks. It also attempts to demonstrate some differences between using SQL and R through SSMS / RStudio, and using them on DataBricks. We will also explore the different working spaces, storage spaces, etc. that are available for use on DataBricks.
+This repository is designed to have work-along exercises that explore some of the functionality of Databricks. It also attempts to demonstrate some differences between using SQL and R through SSMS / RStudio, and using them on DataBricks. It also explores the different working spaces, storage spaces, etc. that are available for use on DataBricks.
 
-This repository is designed to be run in the 'Production' environment of DataBricks within the Department for Education. During the onboarding process you should have been sent an email from the ADAPT team with a link to the Production environment.
+This repository is designed to be run in the 'Production' environment of DataBricks within the Department for Education. During the onboarding process you should have been sent an email from the ADAPT team with a link to the Production environment. The repository can be utilised outside of the Department of Education as a Databricks learning tool, however there would be some steps required before this were possible (see 'Open Data Sources' section below).
 
 _**Note:** This won't actually say 'Production'. It will instead appear as a code of letters and numbers, but for the purposes of this tutorial it is presented as 'Production'._
 
 ![](images/databricks-readme-environment.png)
 
-There are 4 environments in total; Production, Pre-production, Test, and Dev. The associated codes are in the table below. The Production environment is the only environment on which sensitive data should be kept. As such the majority of analytical work will take place on this environment.
+There are 4 environments in total; Production, Pre-production, Test, and Dev. The Production environment is the only environment on which sensitive data should be kept. As such the majority of analytical work will take place on this environment. 
 
-Each environment looks the same apart from the name in the top right corner, however they are not connected to each other and data on one environment is not accessible from others. You may not have access to all of these environments, that is not a problem as long as you have access to the Production environment.
+Each environment looks the same apart from the name in the top right corner, however they are not connected to each other and data, files and code stored on one environment is not accessible from others. You may not have access to all of these environments, that is not a problem as long as you have access to the Production environment.
 
 As the name in the top right is the only way to identify which environment you are on it can be helpful to create bookmarks in your browser titled with the respective environment name.
 
@@ -51,24 +51,22 @@ Instructions on setting up a personal cluster are provided under the table below
 3. Switch the 'Node type' to 'Large 28GB 8-core node'
 4. Click the 'Create compute' button at the bottom. This will start your cluster. Your cluster may take several minutes to start up.
 
-Databricks charges based on the usage of compute, so if you finish work on Databricks it is good practice to terminate it when you're done to save money for the Department. As a pre-caution against running up unnecessary charges your personal cluster is set to terminate after 1 hour of inactivity. 
+Databricks charges based on the usage of compute, so if you finish work on Databricks it is good practice to terminate it when you're done to save money for the Department. As a precaution against running up unnecessary charges your personal cluster is set to terminate after 1 hour of inactivity. 
 
 Once you have a cluster started you can begin working through the numbered folders sequentially. Each folder will have a README or numbered notebooks describing what the exercise is.
 
 
 ## Clone this repository to Databricks
 
-In order to access this repository from the Databricks environment you'll need to set up access to DevOps through Databricks, then clone this repo into your workspace. Instructions on how to do this can be found in the [Analyst Guide](https://dfe-analytical-services.github.io/analysts-guide/) article [Use Databricks with Git](https://dfe-analytical-services.github.io/analysts-guide/ADA/git_databricks.html) under the section 'Setting up a connetion to Azure DevOps'.
-
-Once you have succesfully linked your Databricks account to DevOps you can then clone this repository using the following steps:
+In order to access this repository from the Databricks environment you'll need to clone this repo into your workspace using the following steps within Databricks:
 
 1. Click the 'Workspace' option in the left hand side bar
 2. Within your 'Home' directory click the blue 'Create' button and select 'Git folder'
 3. In the 'Create Git folder' pop-up window 
-   1. enter the URL for this repo into the 'Git repository URL' box, then change the 'Git provider' to 'Azure DevOps Services'
+   1. enter the URL for this repo into the 'Git repository URL' box, then ensure the 'Git provider' field is set to 'GitHub'
    2. The 'Git folder name' will auto-populate with the name of the repo, you can leave this as-is or change it if you wish
    3. Click the blue 'Create Git Folder' button
-   4. You can now close DevOps and open the repository in Databricks to work through the exercises in order
+   4. You can now close GitHub and open the repository in Databricks to work through the exercises in order
   
 ## Begin the exercises
 
@@ -78,9 +76,46 @@ Be sure to read and follow the instructions carefully as you are running through
 
 From folder `02 - Notebooks` all the exercises are stored in notebooks in sequential order.
 
+# Open Data Sources
+
+To ensure this repository is generalisable the data used throughout is open data sourced from Kaggle. The specific datasets are listed below:
+
+ - [Air BnB Open Data - Kaggle](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata)
+ - [COVID-19 dataset - Kaggle](https://www.kaggle.com/datasets/georgesaavedra/covid19-dataset)
+ - [IMDB Datasets - Kaggle](https://www.kaggle.com/datasets/kunwarakash/imdbdatasets)
+ - [Steam Games, Reviews, and Rankings - Kaggle](https://www.kaggle.com/datasets/mohamedtarek01234/steam-games-reviews-and-rankings)
+
+These are stored in a Databricks catalog within the Production environment in a data catalog specifically designed to provide a sandbox of open data for analysts to practice manipulating in Databricks. By default any user of the environment is granted read-only access to the data.
+
+The exception to this is the AirBNB dataset which is used as an example of importing data and is included in the respository folder `resources` titled `Airbnb_Open_Data.csv`. 
+
+Each dataset that is stored in the training catalog is kept in it's own schema (`covid`, `imdb`, `steam` respectively). If you to want to use this training repository on another environment you will need to download these datasets, import them into a catalog in the following structure, and replace the hardcoded catalog name `catalog_40_copper_analyst_training` used in queries throughout the repository.
+
+ - _Catalog name_ (catalog)
+      - covid (schema)
+         - covid_data (table)
+      - imdb (schema)
+         - name_basics (table)
+         - title_akas (table)
+         - title_basics (table)
+         - title_crew (table)
+         - title_episode (table)
+         - title_principles (table)
+         - title_ratings (table)
+      - steam (schema)
+         - games_descriptions (table)
+         - games_ranking (table)
+         - steam_game_reviews (table)
+
 # Contribute
 If you want to add lessons to this repository you should create a new branch by clicking the git button in the top left corner of this notebook. It will always have the title of the branch you are on, so presuming you just cloned this repo it will currently say 'main'.
 
 ![Git button](images/git-button.png)
 
-This will allow you to create a new branch where you can add a new folder for the exercise you want to contribute. Once you have completed writing and testing it, you can raise a pull request on the DevOps repository [`databricks_code_learn`](https://dfe-gov-uk.visualstudio.com/official-statistics-production/_git/databricks_code_learn).
+This will allow you to create a new branch where you can add a new folder for the exercise you want to contribute. Once you have completed writing and testing it, you can raise a pull request on the GitHub repository [`databricks_code_learn`](https://github.com/dfe-analytical-services/databricks_code_learn.git).
+
+Exercises should focus on completing a single process within the databricks environment using the open data sources above where possible. 
+
+Nothing pushed to the repository should not contain any sensitive data including URLs of organisational environments, services or data, or personally identifiable information of any kind. This extends to images and screenshots within the repository as well.
+
+Code should be portable, meaning that no changes to the code should have to be made by a user to successfully run through the exercises. Where values may be different between users _widgets_ or other methods of parameterisation should be used.

@@ -356,7 +356,7 @@ workflow
 # MAGIC     name = job_name,
 # MAGIC     git_source = list(
 # MAGIC         git_url = "https://github.com/dfe-analytical-services/databricks_code_learn",
-# MAGIC         git_provider = "azureDevOpsServices",
+# MAGIC         git_provider = "gitHub",
 # MAGIC         git_branch = "main"
 # MAGIC       ),
 # MAGIC     tasks = list(
