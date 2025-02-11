@@ -106,7 +106,7 @@ dbutils.widgets.text("owner_group","")
 # MAGIC %md
 # MAGIC Finally, we'll add a widget for the Databricks production URL called `host`. This isn't needed from a technical point of view, we could just hard-code it into the script as it is unlikely to change. 
 # MAGIC
-# MAGIC However, as this repository isn't access controlled and is available to the public on Github it would be more secure to keep the web address of the Departments data analytics platform out of the code. It also means if the URL for Databricks ever did change there would be less code maintenance.
+# MAGIC However, as this repository isn't access controlled and is available to the public on GitHub it would be more secure to keep the web address of the Departments data analytics platform out of the code. It also means if the URL for Databricks ever did change there would be less code maintenance.
 # MAGIC
 # MAGIC Run the chunk below and then populate it with the URL of this current page up until (and including) the first `/`, and your token.
 
@@ -274,7 +274,7 @@ str(select_from_table_task)
 # MAGIC %md
 # MAGIC ## Git details
 # MAGIC
-# MAGIC Since we are running this workflow from a git repository we will need to pass the git details to the workflow definition. Specifically the URL of the repository, the git provider, and the branch of the repository we are wanting to build the workflow from.
+# MAGIC Since we are running this workflow from a git repository we will need to pass the git details to the workflow definition. Specifically the URL of the repository, the Git provider, and the branch of the repository we are wanting to build the workflow from.
 
 # COMMAND ----------
 
