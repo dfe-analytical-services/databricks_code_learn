@@ -1,0 +1,131 @@
+-- Databricks notebook source
+-- MAGIC %md
+-- MAGIC
+-- MAGIC # RStudio
+-- MAGIC
+-- MAGIC You can connect to Databricks from RStudio and use it as a data source in a similar way to how we currently use SQL Server from RStudio.
+
+-- COMMAND ----------
+
+-- MAGIC %md
+-- MAGIC ## Pre-requisites
+-- MAGIC
+-- MAGIC Before you start, you will need
+-- MAGIC - Access to the Databricks platform
+-- MAGIC - Access to a SQL Warehouse or Personal Cluster on Databricks
+-- MAGIC - R and RStudio downloaded and installed
+-- MAGIC
+
+-- COMMAND ----------
+
+-- MAGIC %md
+-- MAGIC ## Process
+-- MAGIC
+-- MAGIC There are three steps to complete before your connection can be established. These are:
+-- MAGIC
+-- MAGIC - Installing an ODBC driver on your laptop to enable a connection between your laptop and Databricks
+-- MAGIC - Modifying your .Renviron file to establish a connection between RStudio and Databricks
+-- MAGIC - Adding connection code to your existing scripts in RStudio
+-- MAGIC - Each of these steps is described in more detail in the sections below.
+
+-- COMMAND ----------
+
+-- MAGIC %md
+-- MAGIC ### Install the Sibma Spark ODBC driver from the Software Centre
+-- MAGIC
+-- MAGIC - Open the 'Software Centre' on your laptop
+-- MAGIC - In the 'Applications' tab click `Simba Spark ODBC Driver 64-bit`
+-- MAGIC
+-- MAGIC ![Simba Spark ODBC Driver in Software Centre](../images/rstudio-odbc.png)
+-- MAGIC - Click install
+
+-- COMMAND ----------
+
+-- MAGIC %md
+-- MAGIC ### Establishing an RStudio connection using environment variables
+-- MAGIC
+-- MAGIC The `ODBC` package in RStudio allows you to connect to Databricks by creating and modifying three environment variables in your .Renviron file.
+-- MAGIC
+-- MAGIC To set the environment variables, call `usethis::edit_r_environ()`. You will then need to enter the details enclosed in square brackets below (the square brackets should not be included in your file, they are simply to denote what you need to fill in):
+-- MAGIC
+-- MAGIC     DATABRICKS_HOST=[databricks-host]
+-- MAGIC
+-- MAGIC     DATABRICKS_SQL_PATH=[sql-warehouse-path]
+-- MAGIC
+-- MAGIC     DATABRICKS_CLUSTER_PATH=[personal-cluster-path]
+-- MAGIC
+-- MAGIC     DATABRICKS_TOKEN=[personal-access-token]
+-- MAGIC
+-- MAGIC Once you have entered the details (guidance below), save and close your .Renviron file and restart R (Session > Restart R).
+-- MAGIC
+-- MAGIC > Everyone in your team that wishes to connect to Databricks to run your code must set up their .Renviron file individually, otherwise their connection will fail.
+-- MAGIC
+-- MAGIC The sections below describe where to find the information needed for each of the four environment variables.
+-- MAGIC
+-- MAGIC #### Databricks host
+-- MAGIC
+-- MAGIC The Databricks host is the instance of Databricks that you want to connect to. It’s the URL that you see in your browser bar when you’re on the Databricks site and should end in “azuredatabricks.net” (ignore anything after this section of the URL).
+-- MAGIC
+-- MAGIC #### SQL Warehouse path
+-- MAGIC
+-- MAGIC To get the Warehouse ID, follow these steps:
+-- MAGIC
+-- MAGIC click ‘SQL Warehouses’ under the ‘SQL’ section of the left hand menu on Databricks
+-- MAGIC click on the warehouse name that you’d like to get the ID for
+-- MAGIC the warehouse id is the ‘HTTP Path’ in the ‘Connection details’ tab
+-- MAGIC the ID should start with something similar to “/sql/1.0/warehouses/
+-- MAGIC
+-- MAGIC #### Personal cluster path
+-- MAGIC
+-- MAGIC In Databricks, go to Compute in the left hand menu, and click on the name of your personal cluster:
+-- MAGIC
+-- MAGIC ![Personal cluster path location](../images/rstudio-cluster-path.png)
+-- MAGIC
+-- MAGIC On the Configuration tab, scroll to the bottom of the page and click Advanced Options > JDBC/ODBC > HTTP Path, and copy the text after the last forward slash. This is your cluster path.
+-- MAGIC
+-- MAGIC #### Databricks Token
+-- MAGIC
+-- MAGIC The Databricks token is a personal access token.
+-- MAGIC
+-- MAGIC A personal access token is is a security measure that acts as an identifier to let Databricks know who is accessing information from the SQL warehouse. Access tokens are usually set for a limited amount of time, so they will need renewing periodically.
+-- MAGIC
+-- MAGIC - In Databricks, click on your email address in the top right corner, then click ‘User settings’
+-- MAGIC
+-- MAGIC - Go to the ‘Developer’ tab in the side bar. Next to ‘Access tokens’, click the ‘Manage’ button
+-- MAGIC
+-- MAGIC ![Instructions on how to get a Databricks Access token](../images/workflow-script-pat.png)
+-- MAGIC
+-- MAGIC - Click the ‘Generate new token’ button
+-- MAGIC
+-- MAGIC - Name the token, then click ‘Generate’
+-- MAGIC
+-- MAGIC > Note that access tokens will only last as long as the value for the ‘Lifetime (days)’ field. After this period the token will expire, and you will need to create a new one to re-authenticate. Access tokens also expire if they are unused after 90 days. For this reason, we recommend setting the Lifetime value to be 90 days or less.
+-- MAGIC
+-- MAGIC - Make a note of the ‘Databricks access token’ it has given you
+-- MAGIC
+-- MAGIC > It is very important that you immediately copy the access token that you are given, as you will not be able to see it through Databricks again. If you lose this access token before pasting it into RStudio then you must generate a new access token to replace it.
+
+-- COMMAND ----------
+
+-- MAGIC %md
+-- MAGIC ### Pulling data into RStudio from Databricks
+-- MAGIC
+-- MAGIC Now that you have enabled ODBC connections on your laptop, and enabled a connection between Databricks and RStudio, you can add code to your existing scripts to pull data into RStudio for analysis. If you have connected to other SQL databases before, this code will look quite familiar to you.
+-- MAGIC
+-- MAGIC To access the data, we will make use of the ODBC package. You can find documentation about this package [on the Posit website](https://solutions.posit.co/connections/db/r-packages/odbc/). You will also need to have the DBI package installed.
+-- MAGIC
+-- MAGIC Include the following code in your R Script:
+-- MAGIC
+-- MAGIC     library(odbc)
+-- MAGIC
+-- MAGIC     library(DBI)
+-- MAGIC
+-- MAGIC     con <- DBI::dbConnect(
+-- MAGIC
+-- MAGIC       odbc::databricks(),
+-- MAGIC
+-- MAGIC       httpPath = Sys.getenv("DATABRICKS_SQL_PATH")
+-- MAGIC
+-- MAGIC     )
+-- MAGIC
+-- MAGIC     odbcListObjects(con)

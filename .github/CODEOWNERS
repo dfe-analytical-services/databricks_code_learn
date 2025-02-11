@@ -1,0 +1,9 @@
+# These owners will be the default owners for everything in
+# the repo. Unless a later match takes precedence,
+# these will always be requested as reviewer when someone
+# opens a pull request.
+* @nick-treece
+
+# The workflow and website setup files are jointly owned
+README @nick-treece @jen-machin @lsnaathorst1
+.github @nick-treece @jen-machin @lsnaathorst1
