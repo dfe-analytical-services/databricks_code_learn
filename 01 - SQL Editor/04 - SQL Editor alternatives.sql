@@ -39,7 +39,7 @@ SELECT * FROM the_moth_and_the_flame;
 
 --In the SQL Editor this would have resulted in an error because the temporary view 'the_moth_and_the_flame' didn't exist within the session. Here however, everything works as we are used to from SSMS (with syntax differences not withstanding).
 
--- The output window that will appears below is still limited showing one result set however.
+-- The output window that will appear below is still limited showing one result set however.
 
 SELECT * FROM the_moth_and_the_flame LIMIT 5;
 SELECT * FROM the_moth_and_the_flame LIMIT 1;

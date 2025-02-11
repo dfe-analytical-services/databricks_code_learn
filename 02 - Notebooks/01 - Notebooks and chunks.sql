@@ -58,7 +58,7 @@
 -- MAGIC
 -- MAGIC Finally, the 'Share' button allows you to grant access to this notebook to colleagues, and set what type of permission they can have (can they view, edit, run, or manage it). This feature should be used with extreme caution though, as if you grant permission for someone to edit your workbook any changes they make will automatically be saved and may break your code.
 -- MAGIC
--- MAGIC > *Rather than sharing through Databricks, best practice would be to store your notebooks in a git repository (GitHub, or Azure DevOps) which can be cloned by colleagues and managed through version control.*
+-- MAGIC > *Rather than sharing through Databricks, best practice would be to store your notebooks in a Git repository (GitHub, or Azure DevOps) which can be cloned by colleagues and managed through version control.*
 
 -- COMMAND ----------
 
