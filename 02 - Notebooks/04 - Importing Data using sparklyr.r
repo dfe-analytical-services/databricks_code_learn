@@ -59,6 +59,17 @@ schema
 
 # COMMAND ----------
 
+# MAGIC %md
+# MAGIC > **Note:** From Databricks Runtime (DBR) 16.4 LTS onwards, `sparklyr` is only supported on clusters with a Scala version of 2.12. Clusters on DBR 16.4 LTS can either be created with Scala 2.12 or 2.13. If the chunk below fails and shows the following error, ensure that your cluster is using Scala 12.2. 
+# MAGIC
+# MAGIC ![Failed to start sparklyr](../images/notebooks-sparklyr-error.png)
+# MAGIC
+# MAGIC If not, 'Edit' the cluster configurations and switch the DBR to the appropriate Scala version.
+# MAGIC
+# MAGIC ![Correct scala version](../images/notebooks-cluster-scala-version.png)
+
+# COMMAND ----------
+
 library(stringr)
 library(sparklyr)
 
