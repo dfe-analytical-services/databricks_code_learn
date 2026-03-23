@@ -1,0 +1,2601 @@
+pupil_id,attendance_date,attendance_status,date_recorded,session_json
+P001,2024-09-02,Present,2024-09-02,
+P001,2024-09-03,Present,2024-09-03,
+P001,2024-09-04,Unauthorised,04/09/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P001,2024-09-05,Present,2024-09-05,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P001,2024-09-06,Present,06/09/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P001,2024-09-09,Present,2024-09-09,
+P001,2024-09-10,Present,2024-09-10,
+P001,2024-09-11,present,11/09/2024,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P001,2024-09-12,P,2024-09-12,
+P001,2024-09-13,Present,2024-09-13,
+P001,2024-09-16,Present,09-16-2024,
+P001,2024-09-17,Present,17/09/2024,
+P001,2024-09-18,Authorised Absence,18/09/2024,
+P001,2024-09-19,Present,2024-09-19,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P001,2024-09-20,Present,2024-09-20,
+P001,2024-09-23,Present,2024-09-23,
+P001,2024-09-24,Present,2024-09-24,
+P001,2024-09-25,Present,25/09/2024,
+P001,2024-09-26,Present,2024-09-26,
+P001,2024-09-27,U,27/09/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P001,2024-09-30,Present,2024-09-30,
+P001,2024-10-01,Present,2024-10-01,
+P001,2024-10-02,Present,02/10/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P001,2024-10-03,Present,2024-10-03,
+P001,2024-10-04,Present,2024-10-04,
+P001,2024-10-07,Present,2024-10-07,
+P001,2024-10-08,P,2024-10-08,
+P001,2024-10-09,Illness,2024-10-09,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P001,2024-10-10,Present,2024-10-10,
+P001,2024-10-11,Present,11/10/2024,
+P001,2024-10-14,Present,2024-10-14,
+P001,2024-10-15,Present,2024-10-15,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P001,2024-10-16,Present,2024-10-16,
+P001,2024-10-17,Unauthorised,2024-10-17,
+P001,2024-10-18,present,2024-10-18,
+P001,2024-10-21,Present,21/10/2024,
+P001,2024-10-22,Illness,2024-10-22,
+P001,2024-10-23,Illness,10-23-2024,
+P001,2024-10-24,P,24/10/2024,
+P001,2024-10-25,Present,25/10/2024,
+P001,2024-11-04,Present,04/11/2024,
+P001,2024-11-05,Present,05/11/2024,
+P001,2024-11-06,Authorised Absence,06/11/2024,
+P001,2024-11-07,Present,2024-11-07,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": true}"
+P001,2024-11-08,Present,2024-11-08,
+P001,2024-11-11,Present,11-11-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P001,2024-11-12,Present,2024-11-12,
+P001,2024-11-13,Present,2024-11-13,
+P001,2024-11-14,Present,2024-11-14,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P001,2024-11-15,Present,2024-11-15,
+P001,2024-11-18,Present,2024-11-18,
+P001,2024-11-19,Present,19/11/2024,
+P001,2024-11-20,Present,20/11/2024,
+P001,2024-11-21,P,21/11/2024,
+P001,2024-11-22,present,2024-11-22,
+P001,2024-11-25,Present,2024-11-25,
+P001,2024-11-26,Authorised Absence,2024-11-26,
+P001,2024-11-27,Present,2024-11-27,
+P001,2024-11-28,Present,28/11/2024,
+P001,2024-11-29,Present,2024-11-29,
+P001,2024-12-02,Present,02/12/2024,
+P001,2024-12-03,Present,2024-12-03,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P001,2024-12-04,Present,2024-12-04,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P001,2024-12-05,Present,05/12/2024,
+P001,2024-12-06,Present,2024-12-06,
+P001,2024-12-09,Present,09/12/2024,
+P001,2024-12-10,Present,2024-12-10,
+P001,2024-12-11,Present,11/12/2024,
+P001,2024-12-12,Present,2024-12-12,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P001,2024-12-13,Present,2024-12-13,
+P001,2024-12-16,Present,2024-12-16,
+P001,2024-12-17,Present,2024-12-17,
+P001,2024-12-18,Present,12-18-2024,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P001,2024-12-19,Present,2024-12-19,
+P001,2024-12-20,Present,20/12/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P001,2025-01-06,Present,2025-01-06,
+P001,2025-01-07,Present,2025-01-07,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P001,2025-01-08,P,08/01/2025,
+P001,2025-01-09,Present,2025-01-09,
+P001,2025-01-10,Present,2025-01-10,
+P001,2025-01-13,ill,2025-01-13,
+P001,2025-01-14,Present,2025-01-14,
+P001,2025-01-15,Present,01-15-2025,
+P001,2025-01-16,P,01-16-2025,
+P001,2025-01-17,present,2025-01-17,
+P001,2025-01-20,Present,2025-01-20,
+P001,2025-01-21,Present,2025-01-21,
+P001,2025-01-22,Unauthorised,01-22-2025,
+P001,2025-01-23,Present,23/01/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P001,2025-01-24,Authorised Absence,2025-01-24,
+P001,2025-01-27,P,2025-01-27,
+P001,2025-01-28,Present,2025-01-28,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": true}"
+P001,2025-01-29,Present,2025-01-29,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P001,2025-01-30,,30/01/2025,
+P001,2025-01-31,Present,01-31-2025,
+P001,2025-02-03,Present,03/02/2025,
+P001,2025-02-04,Present,04/02/2025,
+P001,2025-02-05,Present,2025-02-05,
+P001,2025-02-06,Present,2025-02-06,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P001,2025-02-07,Present,2025-02-07,
+P001,2025-02-10,Present,2025-02-10,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P001,2025-02-11,Present,2025-02-11,
+P001,2025-02-12,Present,02-12-2025,
+P001,2025-02-13,Present,2025-02-13,
+P001,2025-02-14,Present,2025-02-14,
+P001,2025-02-24,Present,02-24-2025,
+P001,2025-02-25,I,25/02/2025,
+P001,2025-02-26,Present,26/02/2025,
+P001,2025-02-27,Present,02-27-2025,
+P001,2025-02-28,Present,2025-02-28,
+P001,2025-03-03,Present,2025-03-03,
+P001,2025-03-04,Present,2025-03-04,
+P001,2025-03-05,Present,2025-03-05,
+P001,2025-03-06,Present,2025-03-06,
+P001,2025-03-07,Present,2025-03-07,
+P001,2025-03-10,Present,10/03/2025,
+P001,2025-03-11,present,03-11-2025,
+P001,2025-03-12,Present,2025-03-12,
+P001,2025-03-13,Present,13/03/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P001,2025-03-14,Present,2025-03-14,
+P001,2025-03-17,Present,2025-03-17,
+P001,2025-03-18,Present,03-18-2025,
+P001,2025-03-19,Present,19/03/2025,
+P001,2025-03-20,Illness,2025-03-20,
+P001,2025-03-21,Present,2025-03-21,
+P001,2025-03-24,Present,2025-03-24,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P001,2025-03-25,present,25/03/2025,
+P001,2025-03-26,Present,03-26-2025,
+P001,2025-03-27,Present,27/03/2025,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P001,2025-03-28,Illness,2025-03-28,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2024-09-02,Illness,2024-09-02,
+P002,2024-09-03,Present,03/09/2024,
+P002,2024-09-04,Present,2024-09-04,
+P002,2024-09-05,present,2024-09-05,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2024-09-06,Present,06/09/2024,
+P002,2024-09-09,Present,09-09-2024,
+P002,2024-09-10,Present,10/09/2024,
+P002,2024-09-11,Present,11/09/2024,
+P002,2024-09-12,Present,2024-09-12,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2024-09-13,Present,2024-09-13,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2024-09-16,Present,2024-09-16,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P002,2024-09-17,P,2024-09-17,
+P002,2024-09-18,,2024-09-18,
+P002,2024-09-19,Present,2024-09-19,
+P002,2024-09-20,Present,20/09/2024,
+P002,2024-09-23,Present,2024-09-23,
+P002,2024-09-24,Present,2024-09-24,
+P002,2024-09-25,Present,2024-09-25,
+P002,2024-09-26,Present,2024-09-26,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2024-09-27,Present,2024-09-27,
+P002,2024-09-30,Present,2024-09-30,
+P002,2024-10-01,Present,2024-10-01,
+P002,2024-10-02,Illness,2024-10-02,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2024-10-03,Present,10-03-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2024-10-04,Present,2024-10-04,
+P002,2024-10-07,Present,2024-10-07,
+P002,2024-10-08,,10-08-2024,
+P002,2024-10-09,Present,09/10/2024,
+P002,2024-10-10,Present,2024-10-10,
+P002,2024-10-11,P,2024-10-11,
+P002,2024-10-14,Present,14/10/2024,
+P002,2024-10-15,Present,2024-10-15,
+P002,2024-10-16,Present,2024-10-16,
+P002,2024-10-17,Present,10-17-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2024-10-18,Present,2024-10-18,
+P002,2024-10-21,Present,10-21-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2024-10-22,Present,22/10/2024,
+P002,2024-10-23,ill,2024-10-23,
+P002,2024-10-24,Present,24/10/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P002,2024-10-25,Present,25/10/2024,
+P002,2024-11-04,Present,2024-11-04,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2024-11-05,Authorised Absence,2024-11-05,
+P002,2024-11-06,Illness,2024-11-06,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2024-11-07,Present,11-07-2024,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2024-11-08,Present,08/11/2024,
+P002,2024-11-11,Present,11/11/2024,
+P002,2024-11-12,ill,2024-11-12,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2024-11-13,Present,11-13-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2024-11-14,Present,11-14-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2024-11-15,Present,2024-11-15,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2024-11-18,Present,18/11/2024,
+P002,2024-11-19,Present,2024-11-19,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2024-11-20,Present,2024-11-20,
+P002,2024-11-21,Present,2024-11-21,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2024-11-22,Present,22/11/2024,
+P002,2024-11-25,Present,2024-11-25,
+P002,2024-11-26,Present,2024-11-26,
+P002,2024-11-27,Present,2024-11-27,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2024-11-28,Present,2024-11-28,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": true}"
+P002,2024-11-29,Present,2024-11-29,
+P002,2024-12-02,Present,2024-12-02,
+P002,2024-12-03,I,03/12/2024,
+P002,2024-12-04,Present,04/12/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P002,2024-12-05,,05/12/2024,
+P002,2024-12-06,Present,2024-12-06,
+P002,2024-12-09,Present,2024-12-09,
+P002,2024-12-10,Present,12-10-2024,
+P002,2024-12-11,Present,2024-12-11,
+P002,2024-12-12,Present,12/12/2024,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2024-12-13,Present,13/12/2024,
+P002,2024-12-16,Present,2024-12-16,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2024-12-17,P,12-17-2024,
+P002,2024-12-18,Present,18/12/2024,
+P002,2024-12-19,Authorised Absence,2024-12-19,
+P002,2024-12-20,Present,2024-12-20,
+P002,2025-01-06,Present,2025-01-06,
+P002,2025-01-07,Present,2025-01-07,
+P002,2025-01-08,Present,2025-01-08,
+P002,2025-01-09,Present,01-09-2025,
+P002,2025-01-10,Present,2025-01-10,
+P002,2025-01-13,Present,2025-01-13,
+P002,2025-01-14,Present,2025-01-14,
+P002,2025-01-15,present,2025-01-15,
+P002,2025-01-16,I,2025-01-16,
+P002,2025-01-17,I,01-17-2025,
+P002,2025-01-20,Present,20/01/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2025-01-21,Present,2025-01-21,
+P002,2025-01-22,Present,22/01/2025,
+P002,2025-01-23,I,2025-01-23,
+P002,2025-01-24,Present,01-24-2025,
+P002,2025-01-27,Present,2025-01-27,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2025-01-28,Present,2025-01-28,
+P002,2025-01-29,Present,29/01/2025,
+P002,2025-01-30,N/A,2025-01-30,
+P002,2025-01-31,Present,2025-01-31,
+P002,2025-02-03,Present,2025-02-03,
+P002,2025-02-04,Present,2025-02-04,
+P002,2025-02-05,Present,2025-02-05,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P002,2025-02-06,Present,2025-02-06,
+P002,2025-02-07,Authorised Absence,07/02/2025,
+P002,2025-02-10,Present,2025-02-10,
+P002,2025-02-11,present,2025-02-11,
+P002,2025-02-12,Present,2025-02-12,
+P002,2025-02-13,Present,2025-02-13,
+P002,2025-02-14,Present,2025-02-14,
+P002,2025-02-24,Present,2025-02-24,
+P002,2025-02-25,Present,02-25-2025,
+P002,2025-02-26,Present,2025-02-26,
+P002,2025-02-27,Present,2025-02-27,
+P002,2025-02-28,Present,2025-02-28,
+P002,2025-03-03,Present,2025-03-03,
+P002,2025-03-04,Present,03-04-2025,
+P002,2025-03-05,Present,2025-03-05,
+P002,2025-03-06,Present,06/03/2025,
+P002,2025-03-07,Present,2025-03-07,
+P002,2025-03-10,Present,2025-03-10,
+P002,2025-03-11,Present,2025-03-11,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2025-03-12,Present,2025-03-12,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2025-03-13,present,2025-03-13,
+P002,2025-03-14,Present,14/03/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2025-03-17,Present,17/03/2025,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P002,2025-03-18,Present,2025-03-18,
+P002,2025-03-19,,19/03/2025,
+P002,2025-03-20,Present,2025-03-20,
+P002,2025-03-21,Authorised Absence,21/03/2025,
+P002,2025-03-24,Present,03-24-2025,
+P002,2025-03-25,P,2025-03-25,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P002,2025-03-26,present,2025-03-26,
+P002,2025-03-27,Present,2025-03-27,
+P002,2025-03-28,Present,28/03/2025,
+P003,2024-09-02,Present,2024-09-02,
+P003,2024-09-03,Present,2024-09-03,
+P003,2024-09-04,Present,2024-09-04,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P003,2024-09-05,Illness,2024-09-05,
+P003,2024-09-06,Present,2024-09-06,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2024-09-09,Present,2024-09-09,
+P003,2024-09-10,Present,2024-09-10,
+P003,2024-09-11,Present,11/09/2024,
+P003,2024-09-12,Present,09-12-2024,
+P003,2024-09-13,Present,2024-09-13,
+P003,2024-09-16,Present,16/09/2024,
+P003,2024-09-17,ill,2024-09-17,
+P003,2024-09-18,Present,18/09/2024,
+P003,2024-09-19,Illness,2024-09-19,
+P003,2024-09-20,Present,2024-09-20,
+P003,2024-09-23,P,09-23-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2024-09-24,Present,24/09/2024,
+P003,2024-09-25,Present,2024-09-25,
+P003,2024-09-26,Present,2024-09-26,
+P003,2024-09-27,Illness,2024-09-27,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2024-09-30,Illness,2024-09-30,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2024-10-01,Present,10-01-2024,
+P003,2024-10-02,Present,02/10/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2024-10-03,Present,2024-10-03,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P003,2024-10-04,Illness,2024-10-04,
+P003,2024-10-07,Illness,2024-10-07,
+P003,2024-10-08,Present,2024-10-08,
+P003,2024-10-09,Present,2024-10-09,
+P003,2024-10-10,Present,10/10/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2024-10-11,Present,2024-10-11,
+P003,2024-10-14,Present,2024-10-14,
+P003,2024-10-15,Present,2024-10-15,
+P003,2024-10-16,Present,16/10/2024,
+P003,2024-10-17,Present,2024-10-17,
+P003,2024-10-18,Present,18/10/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2024-10-21,Present,2024-10-21,
+P003,2024-10-22,Authorised Absence,2024-10-22,
+P003,2024-10-23,present,2024-10-23,
+P003,2024-10-24,Present,10-24-2024,
+P003,2024-10-25,Present,10-25-2024,
+P003,2024-11-04,N/A,2024-11-04,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2024-11-05,Present,05/11/2024,
+P003,2024-11-06,ill,11-06-2024,
+P003,2024-11-07,Present,2024-11-07,
+P003,2024-11-08,Present,2024-11-08,
+P003,2024-11-11,Present,11-11-2024,
+P003,2024-11-12,Present,2024-11-12,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2024-11-13,Present,2024-11-13,
+P003,2024-11-14,Present,2024-11-14,
+P003,2024-11-15,Present,2024-11-15,
+P003,2024-11-18,Present,2024-11-18,
+P003,2024-11-19,I,2024-11-19,
+P003,2024-11-20,Present,2024-11-20,
+P003,2024-11-21,Present,11-21-2024,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2024-11-22,Present,11-22-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2024-11-25,Present,2024-11-25,
+P003,2024-11-26,Present,2024-11-26,
+P003,2024-11-27,Present,2024-11-27,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2024-11-28,present,28/11/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2024-11-29,Present,2024-11-29,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2024-12-02,present,2024-12-02,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P003,2024-12-03,Present,12-03-2024,
+P003,2024-12-04,Present,2024-12-04,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P003,2024-12-05,Present,2024-12-05,
+P003,2024-12-06,Illness,2024-12-06,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2024-12-09,Present,2024-12-09,
+P003,2024-12-10,Illness,2024-12-10,
+P003,2024-12-11,Present,2024-12-11,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P003,2024-12-12,Present,2024-12-12,
+P003,2024-12-13,Present,2024-12-13,
+P003,2024-12-16,Present,16/12/2024,
+P003,2024-12-17,Present,2024-12-17,
+P003,2024-12-18,present,18/12/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2024-12-19,Present,2024-12-19,
+P003,2024-12-20,Present,12-20-2024,
+P003,2025-01-06,Present,06/01/2025,
+P003,2025-01-07,Present,07/01/2025,
+P003,2025-01-08,P,2025-01-08,
+P003,2025-01-09,Present,2025-01-09,
+P003,2025-01-10,Present,01-10-2025,
+P003,2025-01-13,present,2025-01-13,
+P003,2025-01-14,Authorised Absence,14/01/2025,
+P003,2025-01-15,Present,2025-01-15,
+P003,2025-01-16,Unauthorised,01-16-2025,
+P003,2025-01-17,Illness,2025-01-17,
+P003,2025-01-20,Present,20/01/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P003,2025-01-21,Present,01-21-2025,
+P003,2025-01-22,Present,01-22-2025,
+P003,2025-01-23,Present,2025-01-23,
+P003,2025-01-24,Present,2025-01-24,
+P003,2025-01-27,present,2025-01-27,
+P003,2025-01-28,Present,28/01/2025,
+P003,2025-01-29,Present,29/01/2025,
+P003,2025-01-30,Present,2025-01-30,
+P003,2025-01-31,Present,2025-01-31,
+P003,2025-02-03,Present,02-03-2025,
+P003,2025-02-04,Present,04/02/2025,
+P003,2025-02-05,Present,2025-02-05,
+P003,2025-02-06,Present,2025-02-06,
+P003,2025-02-07,Present,2025-02-07,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2025-02-10,Present,2025-02-10,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2025-02-11,Present,2025-02-11,
+P003,2025-02-12,Present,2025-02-12,
+P003,2025-02-13,I,2025-02-13,
+P003,2025-02-14,Present,2025-02-14,
+P003,2025-02-24,Present,2025-02-24,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2025-02-25,,2025-02-25,
+P003,2025-02-26,Present,26/02/2025,
+P003,2025-02-27,P,27/02/2025,
+P003,2025-02-28,Present,2025-02-28,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2025-03-03,Present,03-03-2025,
+P003,2025-03-04,Present,2025-03-04,
+P003,2025-03-05,Present,2025-03-05,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2025-03-06,Present,2025-03-06,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2025-03-07,I,2025-03-07,
+P003,2025-03-10,N/A,2025-03-10,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2025-03-11,Present,2025-03-11,
+P003,2025-03-12,Present,2025-03-12,
+P003,2025-03-13,Present,2025-03-13,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2025-03-14,Present,14/03/2025,
+P003,2025-03-17,present,2025-03-17,
+P003,2025-03-18,present,2025-03-18,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2025-03-19,Present,2025-03-19,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2025-03-20,Present,03-20-2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2025-03-21,Present,21/03/2025,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P003,2025-03-24,Present,2025-03-24,
+P003,2025-03-25,Present,2025-03-25,
+P003,2025-03-26,Present,26/03/2025,
+P003,2025-03-27,Present,2025-03-27,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P003,2025-03-28,Present,28/03/2025,
+P004,2024-09-02,Present,2024-09-02,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P004,2024-09-03,Present,2024-09-03,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P004,2024-09-04,Present,04/09/2024,
+P004,2024-09-05,present,09-05-2024,
+P004,2024-09-06,Present,2024-09-06,
+P004,2024-09-09,I,2024-09-09,
+P004,2024-09-10,Present,2024-09-10,
+P004,2024-09-11,Present,11/09/2024,
+P004,2024-09-12,Present,2024-09-12,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P004,2024-09-13,Illness,2024-09-13,
+P004,2024-09-16,Present,2024-09-16,
+P004,2024-09-17,Present,2024-09-17,
+P004,2024-09-18,Present,2024-09-18,
+P004,2024-09-19,I,19/09/2024,
+P004,2024-09-20,Illness,2024-09-20,
+P004,2024-09-23,ill,2024-09-23,
+P004,2024-09-24,Present,24/09/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P004,2024-09-25,Present,2024-09-25,
+P004,2024-09-26,present,09-26-2024,
+P004,2024-09-27,Present,2024-09-27,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P004,2024-09-30,Present,2024-09-30,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P004,2024-10-01,Present,2024-10-01,
+P004,2024-10-02,Present,2024-10-02,
+P004,2024-10-03,Present,2024-10-03,
+P004,2024-10-04,Present,2024-10-04,
+P004,2024-10-07,Present,07/10/2024,
+P004,2024-10-08,Present,2024-10-08,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P004,2024-10-09,P,2024-10-09,
+P004,2024-10-10,Present,2024-10-10,
+P004,2024-10-11,ill,2024-10-11,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P004,2024-10-14,Present,2024-10-14,
+P004,2024-10-15,Present,15/10/2024,
+P004,2024-10-16,Illness,2024-10-16,
+P004,2024-10-17,present,2024-10-17,
+P004,2024-10-18,I,2024-10-18,
+P004,2024-10-21,Present,2024-10-21,
+P004,2024-10-22,Present,10-22-2024,
+P004,2024-10-23,Present,2024-10-23,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P004,2024-10-24,Present,2024-10-24,
+P004,2024-10-25,P,2024-10-25,
+P004,2024-11-04,Present,2024-11-04,
+P004,2024-11-05,Present,05/11/2024,
+P004,2024-11-06,ill,2024-11-06,
+P004,2024-11-07,Present,2024-11-07,
+P004,2024-11-08,I,11-08-2024,
+P004,2024-11-11,Present,2024-11-11,
+P004,2024-11-12,Present,11-12-2024,
+P004,2024-11-13,Illness,2024-11-13,
+P004,2024-11-14,Present,14/11/2024,
+P004,2024-11-15,Present,15/11/2024,
+P004,2024-11-18,I,11-18-2024,
+P004,2024-11-19,Present,19/11/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P004,2024-11-20,Present,2024-11-20,
+P004,2024-11-21,present,11-21-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P004,2024-11-22,Present,11-22-2024,
+P004,2024-11-25,Present,25/11/2024,
+P004,2024-11-26,Present,11-26-2024,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P004,2024-11-27,Present,2024-11-27,
+P004,2024-11-28,ill,2024-11-28,
+P004,2024-11-29,Present,29/11/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P004,2024-12-02,Present,2024-12-02,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P004,2024-12-03,Authorised Absence,2024-12-03,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P004,2024-12-04,present,2024-12-04,
+P004,2024-12-05,Present,05/12/2024,
+P004,2024-12-06,Present,2024-12-06,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P004,2024-12-09,Present,2024-12-09,
+P004,2024-12-10,Present,2024-12-10,
+P004,2024-12-11,Present,2024-12-11,
+P004,2024-12-12,Present,2024-12-12,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P004,2024-12-13,Present,2024-12-13,
+P004,2024-12-16,Present,12-16-2024,
+P004,2024-12-17,Present,2024-12-17,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P004,2024-12-18,Present,18/12/2024,
+P004,2024-12-19,ill,19/12/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P004,2024-12-20,Present,2024-12-20,
+P004,2025-01-06,Present,06/01/2025,
+P004,2025-01-07,Unauthorised,2025-01-07,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P004,2025-01-08,Present,01-08-2025,
+P004,2025-01-09,Present,2025-01-09,
+P004,2025-01-10,present,2025-01-10,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P004,2025-01-13,Present,01-13-2025,
+P004,2025-01-14,Present,14/01/2025,
+P004,2025-01-15,Present,15/01/2025,
+P004,2025-01-16,Present,16/01/2025,
+P004,2025-01-17,Present,2025-01-17,
+P004,2025-01-20,present,01-20-2025,
+P004,2025-01-21,Present,2025-01-21,
+P004,2025-01-22,Authorised Absence,2025-01-22,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P004,2025-01-23,Present,2025-01-23,
+P004,2025-01-24,Present,2025-01-24,
+P004,2025-01-27,Present,2025-01-27,
+P004,2025-01-28,Present,28/01/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P004,2025-01-29,Present,2025-01-29,
+P004,2025-01-30,Present,2025-01-30,
+P004,2025-01-31,Present,2025-01-31,
+P004,2025-02-03,Present,2025-02-03,
+P004,2025-02-04,Present,04/02/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P004,2025-02-05,Present,2025-02-05,
+P004,2025-02-06,Present,2025-02-06,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P004,2025-02-07,I,2025-02-07,
+P004,2025-02-10,Present,2025-02-10,
+P004,2025-02-11,present,2025-02-11,
+P004,2025-02-12,Present,2025-02-12,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P004,2025-02-13,Present,2025-02-13,
+P004,2025-02-14,Present,02-14-2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P004,2025-02-24,Present,2025-02-24,
+P004,2025-02-25,Unauthorised,02-25-2025,
+P004,2025-02-26,Present,2025-02-26,
+P004,2025-02-27,Present,2025-02-27,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P004,2025-02-28,Present,2025-02-28,
+P004,2025-03-03,Present,2025-03-03,"{""am"": ""Absent"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P004,2025-03-04,Present,2025-03-04,
+P004,2025-03-05,Present,2025-03-05,
+P004,2025-03-06,Present,2025-03-06,
+P004,2025-03-07,I,03-07-2025,
+P004,2025-03-10,Present,2025-03-10,
+P004,2025-03-11,Present,2025-03-11,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P004,2025-03-12,Present,12/03/2025,
+P004,2025-03-13,Present,2025-03-13,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P004,2025-03-14,Present,2025-03-14,
+P004,2025-03-17,I,2025-03-17,
+P004,2025-03-18,Present,2025-03-18,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P004,2025-03-19,Present,2025-03-19,
+P004,2025-03-20,Present,2025-03-20,
+P004,2025-03-21,N/A,2025-03-21,
+P004,2025-03-24,Present,2025-03-24,
+P004,2025-03-25,Present,25/03/2025,
+P004,2025-03-26,Present,03-26-2025,
+P004,2025-03-27,Present,03-27-2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P004,2025-03-28,U,28/03/2025,
+P005,2024-09-02,Present,2024-09-02,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2024-09-03,Present,2024-09-03,
+P005,2024-09-04,present,2024-09-04,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2024-09-05,,09-05-2024,
+P005,2024-09-06,Present,09-06-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2024-09-09,Present,2024-09-09,
+P005,2024-09-10,Present,2024-09-10,
+P005,2024-09-11,Present,2024-09-11,
+P005,2024-09-12,Present,2024-09-12,
+P005,2024-09-13,Present,2024-09-13,
+P005,2024-09-16,ill,2024-09-16,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2024-09-17,Present,2024-09-17,
+P005,2024-09-18,Present,09-18-2024,
+P005,2024-09-19,N/A,2024-09-19,
+P005,2024-09-20,Present,2024-09-20,
+P005,2024-09-23,Present,2024-09-23,"{""am"": ""Absent"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P005,2024-09-24,Present,09-24-2024,
+P005,2024-09-25,Present,25/09/2024,
+P005,2024-09-26,Present,2024-09-26,
+P005,2024-09-27,Present,2024-09-27,
+P005,2024-09-30,Present,2024-09-30,
+P005,2024-10-01,Present,2024-10-01,
+P005,2024-10-02,Present,10-02-2024,
+P005,2024-10-03,Present,2024-10-03,
+P005,2024-10-04,Present,04/10/2024,
+P005,2024-10-07,P,2024-10-07,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2024-10-08,Present,10-08-2024,
+P005,2024-10-09,Authorised Absence,2024-10-09,
+P005,2024-10-10,Present,2024-10-10,
+P005,2024-10-11,Present,2024-10-11,
+P005,2024-10-14,Present,2024-10-14,
+P005,2024-10-15,Present,2024-10-15,
+P005,2024-10-16,Present,2024-10-16,
+P005,2024-10-17,Present,2024-10-17,
+P005,2024-10-18,Present,2024-10-18,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2024-10-21,Present,10-21-2024,
+P005,2024-10-22,I,2024-10-22,
+P005,2024-10-23,Illness,23/10/2024,
+P005,2024-10-24,Present,24/10/2024,
+P005,2024-10-25,Authorised Absence,25/10/2024,
+P005,2024-11-04,Present,2024-11-04,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2024-11-05,Present,05/11/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2024-11-06,Present,2024-11-06,
+P005,2024-11-07,Present,2024-11-07,
+P005,2024-11-08,Present,2024-11-08,
+P005,2024-11-11,Present,2024-11-11,
+P005,2024-11-12,Present,12/11/2024,
+P005,2024-11-13,Authorised Absence,2024-11-13,
+P005,2024-11-14,Present,11-14-2024,
+P005,2024-11-15,Present,15/11/2024,
+P005,2024-11-18,Present,2024-11-18,
+P005,2024-11-19,Present,2024-11-19,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2024-11-20,Present,2024-11-20,
+P005,2024-11-21,Present,2024-11-21,
+P005,2024-11-22,Present,22/11/2024,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P005,2024-11-25,P,25/11/2024,
+P005,2024-11-26,Present,2024-11-26,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2024-11-27,present,2024-11-27,
+P005,2024-11-28,Present,28/11/2024,
+P005,2024-11-29,Illness,29/11/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2024-12-02,Present,2024-12-02,
+P005,2024-12-03,P,2024-12-03,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P005,2024-12-04,Present,2024-12-04,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2024-12-05,Present,05/12/2024,
+P005,2024-12-06,Present,2024-12-06,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2024-12-09,Present,09/12/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2024-12-10,I,2024-12-10,
+P005,2024-12-11,Present,2024-12-11,
+P005,2024-12-12,Authorised Absence,12/12/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2024-12-13,Present,2024-12-13,
+P005,2024-12-16,Present,16/12/2024,
+P005,2024-12-17,Present,2024-12-17,
+P005,2024-12-18,,2024-12-18,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P005,2024-12-19,Present,2024-12-19,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2024-12-20,Present,20/12/2024,
+P005,2025-01-06,Present,2025-01-06,
+P005,2025-01-07,Present,2025-01-07,
+P005,2025-01-08,Present,08/01/2025,
+P005,2025-01-09,Present,2025-01-09,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P005,2025-01-10,Present,2025-01-10,
+P005,2025-01-13,,13/01/2025,
+P005,2025-01-14,present,14/01/2025,
+P005,2025-01-15,Present,2025-01-15,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2025-01-16,Present,2025-01-16,
+P005,2025-01-17,Authorised Absence,2025-01-17,
+P005,2025-01-20,Present,20/01/2025,
+P005,2025-01-21,Present,2025-01-21,
+P005,2025-01-22,Present,22/01/2025,
+P005,2025-01-23,present,2025-01-23,
+P005,2025-01-24,Present,2025-01-24,
+P005,2025-01-27,Present,01-27-2025,
+P005,2025-01-28,Illness,2025-01-28,
+P005,2025-01-29,Present,2025-01-29,
+P005,2025-01-30,Present,2025-01-30,
+P005,2025-01-31,Present,31/01/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2025-02-03,Present,03/02/2025,
+P005,2025-02-04,Present,04/02/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2025-02-05,P,2025-02-05,
+P005,2025-02-06,Present,06/02/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2025-02-07,Present,07/02/2025,
+P005,2025-02-10,Present,2025-02-10,
+P005,2025-02-11,Present,2025-02-11,
+P005,2025-02-12,Present,2025-02-12,
+P005,2025-02-13,I,2025-02-13,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2025-02-14,Present,14/02/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2025-02-24,Authorised Absence,2025-02-24,
+P005,2025-02-25,Present,2025-02-25,
+P005,2025-02-26,Present,2025-02-26,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2025-02-27,P,2025-02-27,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": true}"
+P005,2025-02-28,Present,2025-02-28,
+P005,2025-03-03,Present,03-03-2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P005,2025-03-04,Present,03-04-2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2025-03-05,Present,2025-03-05,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P005,2025-03-06,N/A,03-06-2025,
+P005,2025-03-07,U,03-07-2025,
+P005,2025-03-10,Present,2025-03-10,
+P005,2025-03-11,Present,2025-03-11,
+P005,2025-03-12,Present,2025-03-12,
+P005,2025-03-13,Present,13/03/2025,
+P005,2025-03-14,I,2025-03-14,
+P005,2025-03-17,Present,2025-03-17,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P005,2025-03-18,Present,18/03/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2025-03-19,Authorised Absence,19/03/2025,
+P005,2025-03-20,Present,2025-03-20,
+P005,2025-03-21,present,2025-03-21,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2025-03-24,Present,2025-03-24,
+P005,2025-03-25,Present,2025-03-25,
+P005,2025-03-26,Present,2025-03-26,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P005,2025-03-27,Present,2025-03-27,
+P005,2025-03-28,Present,03-28-2025,
+P011,2024-09-02,Present,2024-09-02,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2024-09-03,Present,2024-09-03,
+P011,2024-09-04,I,2024-09-04,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2024-09-05,present,2024-09-05,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P011,2024-09-06,Present,2024-09-06,
+P011,2024-09-09,Present,2024-09-09,
+P011,2024-09-10,Present,2024-09-10,
+P011,2024-09-11,Present,2024-09-11,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2024-09-12,Present,2024-09-12,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2024-09-13,Present,2024-09-13,
+P011,2024-09-16,Present,2024-09-16,
+P011,2024-09-17,Present,2024-09-17,
+P011,2024-09-18,Present,18/09/2024,
+P011,2024-09-19,Present,2024-09-19,
+P011,2024-09-20,Present,09-20-2024,
+P011,2024-09-23,Present,23/09/2024,
+P011,2024-09-24,U,24/09/2024,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2024-09-25,Present,2024-09-25,
+P011,2024-09-26,Present,26/09/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2024-09-27,Present,2024-09-27,
+P011,2024-09-30,Present,2024-09-30,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P011,2024-10-01,Present,2024-10-01,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P011,2024-10-02,Present,2024-10-02,
+P011,2024-10-03,Present,2024-10-03,
+P011,2024-10-04,Present,2024-10-04,
+P011,2024-10-07,Present,07/10/2024,
+P011,2024-10-08,present,08/10/2024,
+P011,2024-10-09,Present,09/10/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2024-10-10,Present,10-10-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2024-10-11,present,2024-10-11,
+P011,2024-10-14,Present,2024-10-14,
+P011,2024-10-15,P,2024-10-15,
+P011,2024-10-16,Present,16/10/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2024-10-17,P,2024-10-17,
+P011,2024-10-18,Present,2024-10-18,
+P011,2024-10-21,Present,10-21-2024,
+P011,2024-10-22,Present,22/10/2024,
+P011,2024-10-23,Present,23/10/2024,
+P011,2024-10-24,Present,2024-10-24,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2024-10-25,Present,25/10/2024,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2024-11-04,present,2024-11-04,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P011,2024-11-05,Authorised Absence,2024-11-05,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P011,2024-11-06,Present,06/11/2024,
+P011,2024-11-07,Present,2024-11-07,
+P011,2024-11-08,Present,2024-11-08,
+P011,2024-11-11,Present,2024-11-11,
+P011,2024-11-12,Present,2024-11-12,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2024-11-13,Present,2024-11-13,
+P011,2024-11-14,Present,2024-11-14,
+P011,2024-11-15,Present,15/11/2024,
+P011,2024-11-18,Present,2024-11-18,
+P011,2024-11-19,Present,19/11/2024,
+P011,2024-11-20,Present,2024-11-20,
+P011,2024-11-21,Present,21/11/2024,
+P011,2024-11-22,Present,2024-11-22,
+P011,2024-11-25,present,2024-11-25,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2024-11-26,ill,2024-11-26,
+P011,2024-11-27,Present,2024-11-27,
+P011,2024-11-28,Present,28/11/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2024-11-29,Present,2024-11-29,
+P011,2024-12-02,Present,12-02-2024,
+P011,2024-12-03,Present,2024-12-03,
+P011,2024-12-04,Present,04/12/2024,
+P011,2024-12-05,I,2024-12-05,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2024-12-06,Present,2024-12-06,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2024-12-09,Present,2024-12-09,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2024-12-10,Present,2024-12-10,
+P011,2024-12-11,Present,12-11-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2024-12-12,Present,2024-12-12,
+P011,2024-12-13,Present,13/12/2024,
+P011,2024-12-16,Present,2024-12-16,
+P011,2024-12-17,U,2024-12-17,
+P011,2024-12-18,Authorised Absence,2024-12-18,
+P011,2024-12-19,Present,12-19-2024,
+P011,2024-12-20,ill,2024-12-20,
+P011,2025-01-06,Authorised Absence,2025-01-06,
+P011,2025-01-07,Present,2025-01-07,
+P011,2025-01-08,Present,2025-01-08,
+P011,2025-01-09,Present,2025-01-09,
+P011,2025-01-10,Present,01-10-2025,
+P011,2025-01-13,Present,13/01/2025,
+P011,2025-01-14,Present,2025-01-14,
+P011,2025-01-15,Present,2025-01-15,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2025-01-16,P,01-16-2025,
+P011,2025-01-17,Present,2025-01-17,
+P011,2025-01-20,Present,2025-01-20,
+P011,2025-01-21,N/A,21/01/2025,
+P011,2025-01-22,,2025-01-22,
+P011,2025-01-23,Present,2025-01-23,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2025-01-24,present,01-24-2025,
+P011,2025-01-27,Present,2025-01-27,
+P011,2025-01-28,Present,2025-01-28,
+P011,2025-01-29,Present,29/01/2025,
+P011,2025-01-30,Present,2025-01-30,
+P011,2025-01-31,Present,31/01/2025,
+P011,2025-02-03,Present,02-03-2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2025-02-04,Present,02-04-2025,
+P011,2025-02-05,Present,2025-02-05,
+P011,2025-02-06,Present,2025-02-06,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2025-02-07,Present,2025-02-07,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2025-02-10,I,2025-02-10,
+P011,2025-02-11,Present,2025-02-11,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2025-02-12,Present,02-12-2025,
+P011,2025-02-13,Present,02-13-2025,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2025-02-14,Authorised Absence,14/02/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2025-02-24,Authorised Absence,2025-02-24,
+P011,2025-02-25,Present,2025-02-25,
+P011,2025-02-26,Present,2025-02-26,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2025-02-27,Present,2025-02-27,
+P011,2025-02-28,Present,2025-02-28,
+P011,2025-03-03,Present,2025-03-03,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2025-03-04,Present,2025-03-04,
+P011,2025-03-05,Present,2025-03-05,
+P011,2025-03-06,I,2025-03-06,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2025-03-07,Present,2025-03-07,
+P011,2025-03-10,Present,2025-03-10,
+P011,2025-03-11,Present,2025-03-11,
+P011,2025-03-12,Present,2025-03-12,
+P011,2025-03-13,P,13/03/2025,
+P011,2025-03-14,Present,2025-03-14,
+P011,2025-03-17,Present,2025-03-17,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2025-03-18,Present,2025-03-18,
+P011,2025-03-19,Present,2025-03-19,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P011,2025-03-20,Present,2025-03-20,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P011,2025-03-21,Present,2025-03-21,
+P011,2025-03-24,Present,2025-03-24,
+P011,2025-03-25,Unauthorised,2025-03-25,
+P011,2025-03-26,Present,03-26-2025,
+P011,2025-03-27,Present,27/03/2025,
+P011,2025-03-28,P,2025-03-28,
+P012,2024-09-02,Present,02/09/2024,
+P012,2024-09-03,present,2024-09-03,
+P012,2024-09-04,Present,2024-09-04,
+P012,2024-09-05,I,05/09/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P012,2024-09-06,Present,2024-09-06,
+P012,2024-09-09,Present,2024-09-09,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2024-09-10,Present,10/09/2024,
+P012,2024-09-11,Present,2024-09-11,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2024-09-12,Present,12/09/2024,
+P012,2024-09-13,Present,13/09/2024,
+P012,2024-09-16,Present,2024-09-16,
+P012,2024-09-17,Present,2024-09-17,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2024-09-18,Present,2024-09-18,
+P012,2024-09-19,Present,09-19-2024,
+P012,2024-09-20,Present,2024-09-20,
+P012,2024-09-23,Present,2024-09-23,
+P012,2024-09-24,Present,2024-09-24,
+P012,2024-09-25,Present,09-25-2024,
+P012,2024-09-26,Present,2024-09-26,
+P012,2024-09-27,Present,2024-09-27,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2024-09-30,Present,09-30-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2024-10-01,Present,2024-10-01,
+P012,2024-10-02,ill,02/10/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2024-10-03,Authorised Absence,03/10/2024,
+P012,2024-10-04,P,2024-10-04,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2024-10-07,Illness,2024-10-07,
+P012,2024-10-08,Present,2024-10-08,
+P012,2024-10-09,Present,2024-10-09,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P012,2024-10-10,,2024-10-10,
+P012,2024-10-11,ill,2024-10-11,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2024-10-14,Present,2024-10-14,
+P012,2024-10-15,Present,2024-10-15,
+P012,2024-10-16,I,2024-10-16,
+P012,2024-10-17,Present,2024-10-17,
+P012,2024-10-18,Present,10-18-2024,
+P012,2024-10-21,Present,21/10/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2024-10-22,U,2024-10-22,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P012,2024-10-23,Authorised Absence,2024-10-23,
+P012,2024-10-24,Present,2024-10-24,"{""am"": ""Absent"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P012,2024-10-25,U,2024-10-25,
+P012,2024-11-04,Authorised Absence,2024-11-04,
+P012,2024-11-05,Present,11-05-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2024-11-06,Present,2024-11-06,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2024-11-07,Present,2024-11-07,
+P012,2024-11-08,present,08/11/2024,
+P012,2024-11-11,Present,2024-11-11,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2024-11-12,Present,12/11/2024,
+P012,2024-11-13,Present,13/11/2024,
+P012,2024-11-14,present,2024-11-14,
+P012,2024-11-15,Present,2024-11-15,
+P012,2024-11-18,Present,11-18-2024,
+P012,2024-11-19,present,2024-11-19,
+P012,2024-11-20,Present,2024-11-20,
+P012,2024-11-21,Present,2024-11-21,
+P012,2024-11-22,present,2024-11-22,
+P012,2024-11-25,Present,2024-11-25,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2024-11-26,Present,2024-11-26,
+P012,2024-11-27,Present,2024-11-27,
+P012,2024-11-28,Present,11-28-2024,
+P012,2024-11-29,I,2024-11-29,
+P012,2024-12-02,Present,12-02-2024,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2024-12-03,ill,03/12/2024,
+P012,2024-12-04,,12-04-2024,
+P012,2024-12-05,Present,2024-12-05,
+P012,2024-12-06,Present,12-06-2024,
+P012,2024-12-09,Present,2024-12-09,
+P012,2024-12-10,Authorised Absence,2024-12-10,
+P012,2024-12-11,present,2024-12-11,
+P012,2024-12-12,Present,12/12/2024,
+P012,2024-12-13,I,2024-12-13,
+P012,2024-12-16,Present,2024-12-16,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2024-12-17,Present,2024-12-17,
+P012,2024-12-18,Present,2024-12-18,
+P012,2024-12-19,Present,2024-12-19,
+P012,2024-12-20,Present,2024-12-20,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2025-01-06,present,2025-01-06,
+P012,2025-01-07,Present,2025-01-07,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2025-01-08,Present,2025-01-08,
+P012,2025-01-09,Present,2025-01-09,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2025-01-10,present,01-10-2025,
+P012,2025-01-13,,2025-01-13,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2025-01-14,Present,2025-01-14,
+P012,2025-01-15,Present,2025-01-15,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2025-01-16,Present,16/01/2025,
+P012,2025-01-17,present,2025-01-17,
+P012,2025-01-20,Present,2025-01-20,
+P012,2025-01-21,Present,21/01/2025,
+P012,2025-01-22,Present,2025-01-22,
+P012,2025-01-23,Present,2025-01-23,
+P012,2025-01-24,present,2025-01-24,
+P012,2025-01-27,Present,2025-01-27,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P012,2025-01-28,Present,2025-01-28,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P012,2025-01-29,Present,01-29-2025,
+P012,2025-01-30,present,2025-01-30,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2025-01-31,present,2025-01-31,
+P012,2025-02-03,Present,2025-02-03,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P012,2025-02-04,Present,2025-02-04,
+P012,2025-02-05,Authorised Absence,05/02/2025,
+P012,2025-02-06,Present,2025-02-06,
+P012,2025-02-07,Present,2025-02-07,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2025-02-10,Present,02-10-2025,
+P012,2025-02-11,Present,2025-02-11,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2025-02-12,Present,02-12-2025,
+P012,2025-02-13,Present,2025-02-13,
+P012,2025-02-14,ill,2025-02-14,
+P012,2025-02-24,Present,2025-02-24,
+P012,2025-02-25,present,25/02/2025,
+P012,2025-02-26,Present,02-26-2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2025-02-27,N/A,27/02/2025,
+P012,2025-02-28,P,02-28-2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2025-03-03,Illness,2025-03-03,
+P012,2025-03-04,Present,2025-03-04,
+P012,2025-03-05,Present,2025-03-05,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": true}"
+P012,2025-03-06,Present,2025-03-06,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2025-03-07,Present,2025-03-07,
+P012,2025-03-10,Present,10/03/2025,
+P012,2025-03-11,Illness,2025-03-11,
+P012,2025-03-12,Present,2025-03-12,
+P012,2025-03-13,Authorised Absence,13/03/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2025-03-14,Present,2025-03-14,
+P012,2025-03-17,Present,2025-03-17,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P012,2025-03-18,Present,2025-03-18,
+P012,2025-03-19,Present,19/03/2025,
+P012,2025-03-20,ill,2025-03-20,
+P012,2025-03-21,Present,2025-03-21,
+P012,2025-03-24,Present,03-24-2025,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P012,2025-03-25,Present,2025-03-25,
+P012,2025-03-26,Present,26/03/2025,
+P012,2025-03-27,Present,03-27-2025,
+P012,2025-03-28,Present,03-28-2025,
+P013,2024-09-02,Present,2024-09-02,
+P013,2024-09-03,Present,2024-09-03,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2024-09-04,present,2024-09-04,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2024-09-05,I,2024-09-05,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2024-09-06,Present,2024-09-06,
+P013,2024-09-09,Present,2024-09-09,
+P013,2024-09-10,Present,2024-09-10,
+P013,2024-09-11,Present,2024-09-11,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2024-09-12,Authorised Absence,12/09/2024,
+P013,2024-09-13,Present,2024-09-13,
+P013,2024-09-16,present,2024-09-16,
+P013,2024-09-17,ill,17/09/2024,
+P013,2024-09-18,Unauthorised,2024-09-18,
+P013,2024-09-19,Present,2024-09-19,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2024-09-20,present,2024-09-20,
+P013,2024-09-23,Illness,2024-09-23,
+P013,2024-09-24,Present,24/09/2024,
+P013,2024-09-25,Present,2024-09-25,
+P013,2024-09-26,Present,09-26-2024,
+P013,2024-09-27,Present,09-27-2024,
+P013,2024-09-30,Authorised Absence,2024-09-30,
+P013,2024-10-01,Present,01/10/2024,
+P013,2024-10-02,P,2024-10-02,
+P013,2024-10-03,Present,2024-10-03,
+P013,2024-10-04,Present,2024-10-04,
+P013,2024-10-07,Present,07/10/2024,
+P013,2024-10-08,Present,2024-10-08,
+P013,2024-10-09,Illness,2024-10-09,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2024-10-10,Illness,2024-10-10,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": true}"
+P013,2024-10-11,Present,2024-10-11,
+P013,2024-10-14,Present,14/10/2024,
+P013,2024-10-15,Present,10-15-2024,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": true}"
+P013,2024-10-16,Present,2024-10-16,
+P013,2024-10-17,Present,2024-10-17,
+P013,2024-10-18,present,18/10/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2024-10-21,I,21/10/2024,
+P013,2024-10-22,Present,2024-10-22,
+P013,2024-10-23,Present,2024-10-23,
+P013,2024-10-24,Present,2024-10-24,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2024-10-25,Present,2024-10-25,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2024-11-04,present,2024-11-04,
+P013,2024-11-05,Present,2024-11-05,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2024-11-06,Authorised Absence,06/11/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2024-11-07,Illness,11-07-2024,
+P013,2024-11-08,Present,11-08-2024,
+P013,2024-11-11,Present,2024-11-11,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P013,2024-11-12,Unauthorised,2024-11-12,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2024-11-13,Present,2024-11-13,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2024-11-14,U,2024-11-14,
+P013,2024-11-15,Authorised Absence,2024-11-15,
+P013,2024-11-18,Present,2024-11-18,
+P013,2024-11-19,Present,11-19-2024,
+P013,2024-11-20,Present,2024-11-20,
+P013,2024-11-21,present,2024-11-21,
+P013,2024-11-22,Present,2024-11-22,
+P013,2024-11-25,present,2024-11-25,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2024-11-26,Authorised Absence,2024-11-26,
+P013,2024-11-27,ill,2024-11-27,
+P013,2024-11-28,Present,2024-11-28,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2024-11-29,Present,2024-11-29,
+P013,2024-12-02,Present,2024-12-02,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2024-12-03,Illness,03/12/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2024-12-04,Present,2024-12-04,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2024-12-05,Present,2024-12-05,
+P013,2024-12-06,Present,06/12/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2024-12-09,present,12-09-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2024-12-10,present,2024-12-10,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2024-12-11,Present,2024-12-11,
+P013,2024-12-12,Present,12-12-2024,
+P013,2024-12-13,Present,2024-12-13,
+P013,2024-12-16,Present,2024-12-16,
+P013,2024-12-17,Present,2024-12-17,
+P013,2024-12-18,present,12-18-2024,
+P013,2024-12-19,Authorised Absence,2024-12-19,
+P013,2024-12-20,Present,20/12/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2025-01-06,Present,2025-01-06,
+P013,2025-01-07,Present,07/01/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P013,2025-01-08,P,2025-01-08,
+P013,2025-01-09,present,09/01/2025,
+P013,2025-01-10,Present,2025-01-10,
+P013,2025-01-13,Present,2025-01-13,
+P013,2025-01-14,U,2025-01-14,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2025-01-15,Present,2025-01-15,
+P013,2025-01-16,Present,2025-01-16,
+P013,2025-01-17,Present,01-17-2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2025-01-20,I,01-20-2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2025-01-21,Illness,01-21-2025,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2025-01-22,Present,2025-01-22,
+P013,2025-01-23,Present,2025-01-23,
+P013,2025-01-24,Present,2025-01-24,
+P013,2025-01-27,Present,2025-01-27,
+P013,2025-01-28,Present,2025-01-28,
+P013,2025-01-29,Present,2025-01-29,
+P013,2025-01-30,Present,30/01/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2025-01-31,Present,31/01/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2025-02-03,Present,2025-02-03,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2025-02-04,Present,2025-02-04,
+P013,2025-02-05,Present,05/02/2025,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P013,2025-02-06,Present,2025-02-06,
+P013,2025-02-07,Present,07/02/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2025-02-10,Present,2025-02-10,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": true}"
+P013,2025-02-11,Present,02-11-2025,
+P013,2025-02-12,Present,2025-02-12,
+P013,2025-02-13,ill,2025-02-13,
+P013,2025-02-14,Present,02-14-2025,
+P013,2025-02-24,Present,2025-02-24,
+P013,2025-02-25,Present,2025-02-25,
+P013,2025-02-26,Present,2025-02-26,
+P013,2025-02-27,Present,2025-02-27,
+P013,2025-02-28,ill,28/02/2025,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P013,2025-03-03,present,03/03/2025,
+P013,2025-03-04,Present,2025-03-04,
+P013,2025-03-05,Present,2025-03-05,
+P013,2025-03-06,Illness,2025-03-06,
+P013,2025-03-07,Present,2025-03-07,
+P013,2025-03-10,present,2025-03-10,
+P013,2025-03-11,Present,11/03/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2025-03-12,Illness,2025-03-12,
+P013,2025-03-13,N/A,2025-03-13,
+P013,2025-03-14,Present,2025-03-14,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2025-03-17,Present,03-17-2025,
+P013,2025-03-18,Present,18/03/2025,
+P013,2025-03-19,Present,2025-03-19,
+P013,2025-03-20,Present,2025-03-20,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2025-03-21,Present,03-21-2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2025-03-24,Illness,2025-03-24,
+P013,2025-03-25,Present,2025-03-25,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P013,2025-03-26,Present,26/03/2025,
+P013,2025-03-27,P,2025-03-27,
+P013,2025-03-28,Present,2025-03-28,
+P014,2024-09-02,Present,02/09/2024,
+P014,2024-09-03,Present,09-03-2024,
+P014,2024-09-04,Present,2024-09-04,
+P014,2024-09-05,Present,2024-09-05,
+P014,2024-09-06,Present,2024-09-06,
+P014,2024-09-09,Present,2024-09-09,
+P014,2024-09-10,Authorised Absence,2024-09-10,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P014,2024-09-11,P,11/09/2024,
+P014,2024-09-12,Present,2024-09-12,
+P014,2024-09-13,Present,2024-09-13,
+P014,2024-09-16,Present,2024-09-16,
+P014,2024-09-17,Present,2024-09-17,
+P014,2024-09-18,Present,18/09/2024,
+P014,2024-09-19,Present,2024-09-19,
+P014,2024-09-20,Authorised Absence,09-20-2024,
+P014,2024-09-23,Present,2024-09-23,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P014,2024-09-24,present,2024-09-24,
+P014,2024-09-25,Present,09-25-2024,
+P014,2024-09-26,Present,2024-09-26,
+P014,2024-09-27,I,2024-09-27,
+P014,2024-09-30,Present,2024-09-30,
+P014,2024-10-01,Authorised Absence,01/10/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P014,2024-10-02,Present,2024-10-02,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P014,2024-10-03,Authorised Absence,03/10/2024,
+P014,2024-10-04,Present,2024-10-04,
+P014,2024-10-07,Present,2024-10-07,
+P014,2024-10-08,Present,2024-10-08,
+P014,2024-10-09,Present,2024-10-09,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P014,2024-10-10,Present,2024-10-10,
+P014,2024-10-11,Present,2024-10-11,
+P014,2024-10-14,Present,14/10/2024,
+P014,2024-10-15,Present,10-15-2024,
+P014,2024-10-16,Present,16/10/2024,
+P014,2024-10-17,Present,17/10/2024,
+P014,2024-10-18,Present,2024-10-18,
+P014,2024-10-21,Present,2024-10-21,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P014,2024-10-22,Present,2024-10-22,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P014,2024-10-23,Present,2024-10-23,
+P014,2024-10-24,Present,24/10/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P014,2024-10-25,Present,2024-10-25,
+P014,2024-11-04,I,04/11/2024,
+P014,2024-11-05,Authorised Absence,2024-11-05,
+P014,2024-11-06,Present,2024-11-06,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P014,2024-11-07,Present,07/11/2024,
+P014,2024-11-08,Present,08/11/2024,
+P014,2024-11-11,Present,2024-11-11,
+P014,2024-11-12,Present,2024-11-12,
+P014,2024-11-13,Present,2024-11-13,
+P014,2024-11-14,Present,2024-11-14,
+P014,2024-11-15,Present,2024-11-15,
+P014,2024-11-18,Present,11-18-2024,
+P014,2024-11-19,Present,19/11/2024,
+P014,2024-11-20,Present,2024-11-20,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P014,2024-11-21,Present,21/11/2024,
+P014,2024-11-22,I,2024-11-22,
+P014,2024-11-25,Present,25/11/2024,
+P014,2024-11-26,Present,2024-11-26,
+P014,2024-11-27,present,2024-11-27,
+P014,2024-11-28,Authorised Absence,2024-11-28,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P014,2024-11-29,Present,2024-11-29,
+P014,2024-12-02,Present,2024-12-02,
+P014,2024-12-03,present,03/12/2024,
+P014,2024-12-04,Present,2024-12-04,
+P014,2024-12-05,Present,05/12/2024,
+P014,2024-12-06,Present,2024-12-06,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P014,2024-12-09,Present,2024-12-09,
+P014,2024-12-10,Present,2024-12-10,
+P014,2024-12-11,Present,2024-12-11,
+P014,2024-12-12,Present,2024-12-12,
+P014,2024-12-13,Present,2024-12-13,
+P014,2024-12-16,Present,12-16-2024,
+P014,2024-12-17,Present,2024-12-17,
+P014,2024-12-18,U,12-18-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P014,2024-12-19,Present,2024-12-19,
+P014,2024-12-20,Present,2024-12-20,
+P014,2025-01-06,P,2025-01-06,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P014,2025-01-07,U,2025-01-07,
+P014,2025-01-08,Authorised Absence,2025-01-08,
+P014,2025-01-09,Illness,2025-01-09,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P014,2025-01-10,Present,2025-01-10,
+P014,2025-01-13,Present,2025-01-13,
+P014,2025-01-14,I,2025-01-14,
+P014,2025-01-15,Present,01-15-2025,
+P014,2025-01-16,Present,2025-01-16,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": true}"
+P014,2025-01-17,I,2025-01-17,
+P014,2025-01-20,Present,01-20-2025,
+P014,2025-01-21,Present,2025-01-21,
+P014,2025-01-22,I,2025-01-22,
+P014,2025-01-23,Present,2025-01-23,
+P014,2025-01-24,Present,2025-01-24,
+P014,2025-01-27,Present,2025-01-27,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P014,2025-01-28,P,2025-01-28,
+P014,2025-01-29,Present,2025-01-29,
+P014,2025-01-30,Present,2025-01-30,
+P014,2025-01-31,Present,2025-01-31,
+P014,2025-02-03,Present,2025-02-03,
+P014,2025-02-04,Present,02-04-2025,
+P014,2025-02-05,Present,2025-02-05,
+P014,2025-02-06,Present,02-06-2025,
+P014,2025-02-07,Present,2025-02-07,
+P014,2025-02-10,Present,2025-02-10,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P014,2025-02-11,Present,2025-02-11,
+P014,2025-02-12,Present,2025-02-12,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P014,2025-02-13,Present,2025-02-13,
+P014,2025-02-14,Present,2025-02-14,
+P014,2025-02-24,Present,2025-02-24,
+P014,2025-02-25,Present,25/02/2025,
+P014,2025-02-26,Present,26/02/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P014,2025-02-27,Present,2025-02-27,
+P014,2025-02-28,Present,2025-02-28,
+P014,2025-03-03,Present,2025-03-03,
+P014,2025-03-04,Present,03-04-2025,
+P014,2025-03-05,Authorised Absence,2025-03-05,
+P014,2025-03-06,Authorised Absence,2025-03-06,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": true}"
+P014,2025-03-07,Present,2025-03-07,
+P014,2025-03-10,ill,2025-03-10,
+P014,2025-03-11,Present,2025-03-11,
+P014,2025-03-12,Present,12/03/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P014,2025-03-13,Present,2025-03-13,
+P014,2025-03-14,Present,2025-03-14,
+P014,2025-03-17,Present,17/03/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P014,2025-03-18,Present,2025-03-18,
+P014,2025-03-19,present,19/03/2025,
+P014,2025-03-20,Illness,2025-03-20,
+P014,2025-03-21,Present,2025-03-21,
+P014,2025-03-24,Authorised Absence,24/03/2025,
+P014,2025-03-25,ill,2025-03-25,
+P014,2025-03-26,Present,2025-03-26,
+P014,2025-03-27,Present,2025-03-27,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P014,2025-03-28,Present,03-28-2025,
+P015,2024-09-02,Unauthorised,2024-09-02,
+P015,2024-09-03,Present,03/09/2024,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P015,2024-09-04,Present,04/09/2024,
+P015,2024-09-05,U,2024-09-05,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P015,2024-09-06,Authorised Absence,2024-09-06,
+P015,2024-09-09,Present,2024-09-09,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P015,2024-09-10,Present,2024-09-10,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P015,2024-09-11,Present,11/09/2024,
+P015,2024-09-12,present,09-12-2024,
+P015,2024-09-13,Present,13/09/2024,
+P015,2024-09-16,Present,16/09/2024,
+P015,2024-09-17,Present,17/09/2024,
+P015,2024-09-18,Present,2024-09-18,
+P015,2024-09-19,Present,19/09/2024,
+P015,2024-09-20,Present,2024-09-20,
+P015,2024-09-23,Present,2024-09-23,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P015,2024-09-24,Present,2024-09-24,
+P015,2024-09-25,Present,25/09/2024,
+P015,2024-09-26,Present,26/09/2024,
+P015,2024-09-27,Present,2024-09-27,
+P015,2024-09-30,Present,30/09/2024,
+P015,2024-10-01,Authorised Absence,2024-10-01,
+P015,2024-10-02,Present,2024-10-02,
+P015,2024-10-03,Present,2024-10-03,
+P015,2024-10-04,Present,2024-10-04,
+P015,2024-10-07,Present,2024-10-07,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P015,2024-10-08,Present,2024-10-08,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": true}"
+P015,2024-10-09,Present,2024-10-09,
+P015,2024-10-10,ill,2024-10-10,
+P015,2024-10-11,Present,2024-10-11,
+P015,2024-10-14,Present,10-14-2024,
+P015,2024-10-15,Present,2024-10-15,
+P015,2024-10-16,N/A,2024-10-16,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P015,2024-10-17,ill,2024-10-17,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P015,2024-10-18,Present,2024-10-18,
+P015,2024-10-21,Present,2024-10-21,
+P015,2024-10-22,Authorised Absence,10-22-2024,
+P015,2024-10-23,Present,10-23-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P015,2024-10-24,Present,2024-10-24,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P015,2024-10-25,Present,2024-10-25,
+P015,2024-11-04,Present,2024-11-04,
+P015,2024-11-05,Present,2024-11-05,
+P015,2024-11-06,Authorised Absence,06/11/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P015,2024-11-07,Present,2024-11-07,
+P015,2024-11-08,Present,2024-11-08,
+P015,2024-11-11,,2024-11-11,
+P015,2024-11-12,Present,12/11/2024,
+P015,2024-11-13,Present,2024-11-13,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P015,2024-11-14,Present,11-14-2024,
+P015,2024-11-15,Present,2024-11-15,
+P015,2024-11-18,Present,18/11/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P015,2024-11-19,Present,2024-11-19,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": true}"
+P015,2024-11-20,Present,2024-11-20,
+P015,2024-11-21,Present,2024-11-21,
+P015,2024-11-22,Present,2024-11-22,
+P015,2024-11-25,Present,2024-11-25,
+P015,2024-11-26,Present,2024-11-26,
+P015,2024-11-27,Present,11-27-2024,
+P015,2024-11-28,Present,2024-11-28,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P015,2024-11-29,Present,29/11/2024,
+P015,2024-12-02,Present,12-02-2024,
+P015,2024-12-03,Present,2024-12-03,
+P015,2024-12-04,Present,2024-12-04,
+P015,2024-12-05,Present,2024-12-05,
+P015,2024-12-06,Present,2024-12-06,
+P015,2024-12-09,Present,09/12/2024,
+P015,2024-12-10,Present,12-10-2024,
+P015,2024-12-11,Present,2024-12-11,
+P015,2024-12-12,Present,2024-12-12,
+P015,2024-12-13,P,12-13-2024,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P015,2024-12-16,Present,2024-12-16,
+P015,2024-12-17,Present,2024-12-17,
+P015,2024-12-18,Present,2024-12-18,
+P015,2024-12-19,Present,19/12/2024,
+P015,2024-12-20,P,2024-12-20,
+P015,2025-01-06,U,2025-01-06,
+P015,2025-01-07,Present,01-07-2025,
+P015,2025-01-08,Present,01-08-2025,
+P015,2025-01-09,present,09/01/2025,
+P015,2025-01-10,Present,10/01/2025,
+P015,2025-01-13,Present,2025-01-13,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P015,2025-01-14,Present,14/01/2025,
+P015,2025-01-15,Present,2025-01-15,
+P015,2025-01-16,Present,2025-01-16,
+P015,2025-01-17,Present,2025-01-17,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P015,2025-01-20,Present,2025-01-20,
+P015,2025-01-21,Present,2025-01-21,
+P015,2025-01-22,Present,2025-01-22,
+P015,2025-01-23,Present,23/01/2025,
+P015,2025-01-24,ill,2025-01-24,
+P015,2025-01-27,Authorised Absence,27/01/2025,
+P015,2025-01-28,Present,28/01/2025,
+P015,2025-01-29,Present,2025-01-29,
+P015,2025-01-30,present,2025-01-30,
+P015,2025-01-31,Present,2025-01-31,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P015,2025-02-03,Present,2025-02-03,
+P015,2025-02-04,Illness,04/02/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P015,2025-02-05,Present,2025-02-05,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P015,2025-02-06,Present,2025-02-06,
+P015,2025-02-07,Present,2025-02-07,
+P015,2025-02-10,Present,2025-02-10,
+P015,2025-02-11,Illness,2025-02-11,
+P015,2025-02-12,present,2025-02-12,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P015,2025-02-13,Present,2025-02-13,
+P015,2025-02-14,Present,2025-02-14,
+P015,2025-02-24,Present,2025-02-24,
+P015,2025-02-25,Present,25/02/2025,
+P015,2025-02-26,Unauthorised,2025-02-26,
+P015,2025-02-27,Present,2025-02-27,
+P015,2025-02-28,Present,2025-02-28,
+P015,2025-03-03,Present,2025-03-03,
+P015,2025-03-04,Authorised Absence,2025-03-04,
+P015,2025-03-05,Present,2025-03-05,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P015,2025-03-06,Present,2025-03-06,
+P015,2025-03-07,Present,2025-03-07,
+P015,2025-03-10,Present,2025-03-10,
+P015,2025-03-11,Present,2025-03-11,
+P015,2025-03-12,present,03-12-2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P015,2025-03-13,present,13/03/2025,
+P015,2025-03-14,ill,14/03/2025,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P015,2025-03-17,Present,2025-03-17,
+P015,2025-03-18,Present,2025-03-18,
+P015,2025-03-19,present,19/03/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P015,2025-03-20,Present,20/03/2025,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": true}"
+P015,2025-03-21,Present,21/03/2025,
+P015,2025-03-24,Present,03-24-2025,
+P015,2025-03-25,Present,2025-03-25,
+P015,2025-03-26,Present,2025-03-26,
+P015,2025-03-27,Present,2025-03-27,
+P015,2025-03-28,present,2025-03-28,
+P006,2024-09-02,Authorised Absence,2024-09-02,
+P006,2024-09-03,Present,2024-09-03,
+P006,2024-09-04,Present,04/09/2024,
+P006,2024-09-05,Unauthorised,2024-09-05,
+P006,2024-09-06,Present,2024-09-06,
+P006,2024-09-09,U,2024-09-09,
+P006,2024-09-10,Present,2024-09-10,
+P006,2024-09-11,Present,2024-09-11,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2024-09-12,Illness,2024-09-12,
+P006,2024-09-13,Present,2024-09-13,
+P006,2024-09-16,Present,2024-09-16,
+P006,2024-09-17,Present,2024-09-17,
+P006,2024-09-18,Present,2024-09-18,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P006,2024-09-19,Present,09-19-2024,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2024-09-20,Present,2024-09-20,
+P006,2024-09-23,Present,2024-09-23,
+P006,2024-09-24,Present,2024-09-24,
+P006,2024-09-25,P,2024-09-25,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2024-09-26,Authorised Absence,2024-09-26,
+P006,2024-09-27,Present,09-27-2024,
+P006,2024-09-30,Present,2024-09-30,
+P006,2024-10-01,Present,2024-10-01,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2024-10-02,Present,2024-10-02,
+P006,2024-10-03,present,2024-10-03,
+P006,2024-10-04,Present,04/10/2024,
+P006,2024-10-07,Authorised Absence,07/10/2024,
+P006,2024-10-08,Present,2024-10-08,
+P006,2024-10-09,I,2024-10-09,
+P006,2024-10-10,Present,10/10/2024,
+P006,2024-10-11,Authorised Absence,2024-10-11,
+P006,2024-10-14,Present,2024-10-14,
+P006,2024-10-15,Present,2024-10-15,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2024-10-16,Present,10-16-2024,
+P006,2024-10-17,Present,2024-10-17,
+P006,2024-10-18,Present,10-18-2024,
+P006,2024-10-21,Present,21/10/2024,
+P006,2024-10-22,Present,22/10/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2024-10-23,Present,23/10/2024,
+P006,2024-10-24,I,10-24-2024,
+P006,2024-10-25,Present,10-25-2024,
+P006,2024-11-04,Present,04/11/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2024-11-05,Present,2024-11-05,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2024-11-06,Present,2024-11-06,
+P006,2024-11-07,Present,11-07-2024,
+P006,2024-11-08,Present,2024-11-08,
+P006,2024-11-11,Present,11/11/2024,
+P006,2024-11-12,Present,2024-11-12,
+P006,2024-11-13,Present,2024-11-13,
+P006,2024-11-14,Present,2024-11-14,
+P006,2024-11-15,Present,2024-11-15,
+P006,2024-11-18,present,2024-11-18,
+P006,2024-11-19,I,2024-11-19,
+P006,2024-11-20,Present,2024-11-20,
+P006,2024-11-21,Present,21/11/2024,
+P006,2024-11-22,Present,2024-11-22,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2024-11-25,Present,2024-11-25,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2024-11-26,Present,2024-11-26,
+P006,2024-11-27,Present,27/11/2024,"{""am"": ""Absent"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P006,2024-11-28,present,28/11/2024,
+P006,2024-11-29,Present,2024-11-29,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": true}"
+P006,2024-12-02,Present,2024-12-02,
+P006,2024-12-03,Present,03/12/2024,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P006,2024-12-04,Present,2024-12-04,
+P006,2024-12-05,Present,2024-12-05,
+P006,2024-12-06,Present,2024-12-06,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2024-12-09,Present,12-09-2024,
+P006,2024-12-10,Present,2024-12-10,
+P006,2024-12-11,Present,2024-12-11,
+P006,2024-12-12,Authorised Absence,2024-12-12,
+P006,2024-12-13,Present,2024-12-13,
+P006,2024-12-16,Present,2024-12-16,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2024-12-17,Present,17/12/2024,
+P006,2024-12-18,Present,2024-12-18,
+P006,2024-12-19,Present,12-19-2024,
+P006,2024-12-20,Present,2024-12-20,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2025-01-06,Present,2025-01-06,
+P006,2025-01-07,Present,2025-01-07,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2025-01-08,Present,2025-01-08,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2025-01-09,Authorised Absence,2025-01-09,
+P006,2025-01-10,Present,2025-01-10,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2025-01-13,Present,2025-01-13,
+P006,2025-01-14,Present,14/01/2025,
+P006,2025-01-15,Present,15/01/2025,
+P006,2025-01-16,Present,2025-01-16,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2025-01-17,P,2025-01-17,
+P006,2025-01-20,Present,20/01/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2025-01-21,Present,21/01/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2025-01-22,Present,22/01/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2025-01-23,Present,01-23-2025,
+P006,2025-01-24,Present,2025-01-24,
+P006,2025-01-27,Authorised Absence,2025-01-27,
+P006,2025-01-28,Present,2025-01-28,
+P006,2025-01-29,Illness,2025-01-29,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2025-01-30,Present,2025-01-30,
+P006,2025-01-31,Present,01-31-2025,
+P006,2025-02-03,Present,2025-02-03,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2025-02-04,P,2025-02-04,
+P006,2025-02-05,Present,2025-02-05,
+P006,2025-02-06,Present,2025-02-06,
+P006,2025-02-07,,2025-02-07,
+P006,2025-02-10,I,2025-02-10,
+P006,2025-02-11,Present,2025-02-11,
+P006,2025-02-12,I,2025-02-12,
+P006,2025-02-13,Present,2025-02-13,
+P006,2025-02-14,Present,2025-02-14,
+P006,2025-02-24,Present,2025-02-24,
+P006,2025-02-25,Present,2025-02-25,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2025-02-26,Present,2025-02-26,
+P006,2025-02-27,Present,27/02/2025,
+P006,2025-02-28,N/A,2025-02-28,
+P006,2025-03-03,Present,2025-03-03,
+P006,2025-03-04,Present,03-04-2025,
+P006,2025-03-05,Present,03-05-2025,
+P006,2025-03-06,Present,2025-03-06,
+P006,2025-03-07,Present,2025-03-07,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2025-03-10,Present,2025-03-10,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2025-03-11,Present,03-11-2025,
+P006,2025-03-12,Present,12/03/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P006,2025-03-13,ill,2025-03-13,
+P006,2025-03-14,P,14/03/2025,
+P006,2025-03-17,Present,2025-03-17,
+P006,2025-03-18,Present,03-18-2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2025-03-19,ill,2025-03-19,
+P006,2025-03-20,Present,2025-03-20,
+P006,2025-03-21,Present,21/03/2025,
+P006,2025-03-24,I,2025-03-24,
+P006,2025-03-25,Present,2025-03-25,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P006,2025-03-26,Present,2025-03-26,
+P006,2025-03-27,Present,2025-03-27,
+P006,2025-03-28,Present,2025-03-28,
+P007,2024-09-02,present,2024-09-02,
+P007,2024-09-03,Present,2024-09-03,
+P007,2024-09-04,Present,2024-09-04,
+P007,2024-09-05,Present,2024-09-05,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2024-09-06,Present,06/09/2024,
+P007,2024-09-09,Present,2024-09-09,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2024-09-10,Present,2024-09-10,
+P007,2024-09-11,present,2024-09-11,
+P007,2024-09-12,present,2024-09-12,
+P007,2024-09-13,,2024-09-13,
+P007,2024-09-16,Present,2024-09-16,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2024-09-17,Unauthorised,2024-09-17,
+P007,2024-09-18,Present,2024-09-18,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2024-09-19,Present,2024-09-19,
+P007,2024-09-20,Present,20/09/2024,
+P007,2024-09-23,Present,2024-09-23,
+P007,2024-09-24,P,2024-09-24,
+P007,2024-09-25,Authorised Absence,2024-09-25,
+P007,2024-09-26,Present,2024-09-26,
+P007,2024-09-27,P,09-27-2024,
+P007,2024-09-30,Present,2024-09-30,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2024-10-01,Present,2024-10-01,
+P007,2024-10-02,Authorised Absence,02/10/2024,
+P007,2024-10-03,Illness,2024-10-03,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2024-10-04,Present,2024-10-04,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2024-10-07,Authorised Absence,2024-10-07,
+P007,2024-10-08,Unauthorised,2024-10-08,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2024-10-09,Present,09/10/2024,
+P007,2024-10-10,Present,2024-10-10,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2024-10-11,Present,2024-10-11,
+P007,2024-10-14,,2024-10-14,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2024-10-15,Present,2024-10-15,
+P007,2024-10-16,Present,2024-10-16,
+P007,2024-10-17,Present,2024-10-17,
+P007,2024-10-18,Present,2024-10-18,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2024-10-21,Present,2024-10-21,
+P007,2024-10-22,Present,22/10/2024,
+P007,2024-10-23,Present,2024-10-23,
+P007,2024-10-24,Present,2024-10-24,
+P007,2024-10-25,Present,25/10/2024,
+P007,2024-11-04,Present,2024-11-04,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2024-11-05,Present,05/11/2024,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2024-11-06,N/A,2024-11-06,
+P007,2024-11-07,Present,2024-11-07,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2024-11-08,present,2024-11-08,
+P007,2024-11-11,Present,2024-11-11,
+P007,2024-11-12,Authorised Absence,2024-11-12,
+P007,2024-11-13,Present,2024-11-13,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2024-11-14,Present,2024-11-14,
+P007,2024-11-15,Present,15/11/2024,
+P007,2024-11-18,Present,2024-11-18,
+P007,2024-11-19,Present,11-19-2024,
+P007,2024-11-20,Present,11-20-2024,
+P007,2024-11-21,Illness,2024-11-21,
+P007,2024-11-22,Present,2024-11-22,
+P007,2024-11-25,Present,2024-11-25,
+P007,2024-11-26,Present,26/11/2024,
+P007,2024-11-27,Present,2024-11-27,
+P007,2024-11-28,Present,11-28-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2024-11-29,Present,2024-11-29,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2024-12-02,ill,2024-12-02,
+P007,2024-12-03,Present,03/12/2024,
+P007,2024-12-04,Present,2024-12-04,
+P007,2024-12-05,Present,12-05-2024,
+P007,2024-12-06,Present,06/12/2024,
+P007,2024-12-09,Present,09/12/2024,
+P007,2024-12-10,Present,10/12/2024,
+P007,2024-12-11,Present,2024-12-11,
+P007,2024-12-12,Present,2024-12-12,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2024-12-13,Present,2024-12-13,
+P007,2024-12-16,Present,2024-12-16,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2024-12-17,Present,12-17-2024,
+P007,2024-12-18,,2024-12-18,
+P007,2024-12-19,Present,2024-12-19,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P007,2024-12-20,Present,2024-12-20,
+P007,2025-01-06,Present,2025-01-06,
+P007,2025-01-07,Authorised Absence,2025-01-07,
+P007,2025-01-08,I,2025-01-08,
+P007,2025-01-09,I,09/01/2025,
+P007,2025-01-10,Present,2025-01-10,
+P007,2025-01-13,Present,2025-01-13,
+P007,2025-01-14,Present,2025-01-14,
+P007,2025-01-15,Present,2025-01-15,
+P007,2025-01-16,Present,2025-01-16,
+P007,2025-01-17,Present,2025-01-17,
+P007,2025-01-20,Present,2025-01-20,
+P007,2025-01-21,Present,2025-01-21,
+P007,2025-01-22,Present,22/01/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2025-01-23,Authorised Absence,2025-01-23,
+P007,2025-01-24,Present,01-24-2025,
+P007,2025-01-27,Present,2025-01-27,
+P007,2025-01-28,Present,2025-01-28,
+P007,2025-01-29,Present,29/01/2025,
+P007,2025-01-30,Present,30/01/2025,
+P007,2025-01-31,Present,2025-01-31,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2025-02-03,Present,2025-02-03,
+P007,2025-02-04,Present,2025-02-04,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": true}"
+P007,2025-02-05,Present,2025-02-05,
+P007,2025-02-06,Present,06/02/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P007,2025-02-07,Present,2025-02-07,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P007,2025-02-10,Present,2025-02-10,
+P007,2025-02-11,Present,2025-02-11,
+P007,2025-02-12,Present,2025-02-12,
+P007,2025-02-13,Present,2025-02-13,
+P007,2025-02-14,Present,2025-02-14,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2025-02-24,Present,2025-02-24,
+P007,2025-02-25,Unauthorised,25/02/2025,
+P007,2025-02-26,Present,2025-02-26,
+P007,2025-02-27,Present,2025-02-27,
+P007,2025-02-28,Present,28/02/2025,
+P007,2025-03-03,Present,03-03-2025,
+P007,2025-03-04,Illness,04/03/2025,
+P007,2025-03-05,Present,2025-03-05,
+P007,2025-03-06,Present,2025-03-06,
+P007,2025-03-07,Present,03-07-2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2025-03-10,Present,2025-03-10,
+P007,2025-03-11,Present,2025-03-11,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2025-03-12,Present,2025-03-12,
+P007,2025-03-13,I,2025-03-13,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2025-03-14,Present,2025-03-14,
+P007,2025-03-17,Present,2025-03-17,
+P007,2025-03-18,Authorised Absence,18/03/2025,
+P007,2025-03-19,present,2025-03-19,
+P007,2025-03-20,Present,2025-03-20,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2025-03-21,Present,2025-03-21,
+P007,2025-03-24,I,2025-03-24,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2025-03-25,I,2025-03-25,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2025-03-26,present,2025-03-26,
+P007,2025-03-27,Present,2025-03-27,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P007,2025-03-28,Present,2025-03-28,
+P008,2024-09-02,Present,2024-09-02,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P008,2024-09-03,Present,2024-09-03,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2024-09-04,Present,09-04-2024,
+P008,2024-09-05,Present,2024-09-05,
+P008,2024-09-06,Present,2024-09-06,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2024-09-09,Present,2024-09-09,
+P008,2024-09-10,,2024-09-10,
+P008,2024-09-11,Present,2024-09-11,
+P008,2024-09-12,N/A,2024-09-12,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2024-09-13,I,2024-09-13,
+P008,2024-09-16,Present,16/09/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2024-09-17,Authorised Absence,2024-09-17,
+P008,2024-09-18,Present,2024-09-18,
+P008,2024-09-19,Present,2024-09-19,
+P008,2024-09-20,Present,2024-09-20,
+P008,2024-09-23,Present,2024-09-23,
+P008,2024-09-24,Present,09-24-2024,
+P008,2024-09-25,Present,2024-09-25,
+P008,2024-09-26,P,2024-09-26,
+P008,2024-09-27,Present,27/09/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2024-09-30,Authorised Absence,30/09/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2024-10-01,Present,2024-10-01,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2024-10-02,Present,2024-10-02,
+P008,2024-10-03,Present,2024-10-03,
+P008,2024-10-04,Present,2024-10-04,
+P008,2024-10-07,Present,2024-10-07,
+P008,2024-10-08,Present,08/10/2024,
+P008,2024-10-09,Present,09/10/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2024-10-10,Present,10-10-2024,
+P008,2024-10-11,I,2024-10-11,
+P008,2024-10-14,Present,2024-10-14,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2024-10-15,Present,2024-10-15,
+P008,2024-10-16,Present,10-16-2024,
+P008,2024-10-17,Present,2024-10-17,
+P008,2024-10-18,Present,2024-10-18,
+P008,2024-10-21,Present,2024-10-21,
+P008,2024-10-22,Present,22/10/2024,
+P008,2024-10-23,Present,2024-10-23,
+P008,2024-10-24,Present,2024-10-24,
+P008,2024-10-25,Present,10-25-2024,
+P008,2024-11-04,Authorised Absence,2024-11-04,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2024-11-05,P,2024-11-05,
+P008,2024-11-06,N/A,2024-11-06,
+P008,2024-11-07,,2024-11-07,
+P008,2024-11-08,Present,2024-11-08,
+P008,2024-11-11,Present,11-11-2024,
+P008,2024-11-12,Present,2024-11-12,
+P008,2024-11-13,U,2024-11-13,
+P008,2024-11-14,Present,2024-11-14,
+P008,2024-11-15,Present,2024-11-15,
+P008,2024-11-18,Present,18/11/2024,
+P008,2024-11-19,Present,19/11/2024,
+P008,2024-11-20,Present,2024-11-20,
+P008,2024-11-21,Present,2024-11-21,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2024-11-22,Present,2024-11-22,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2024-11-25,Present,25/11/2024,
+P008,2024-11-26,Present,2024-11-26,
+P008,2024-11-27,Present,2024-11-27,
+P008,2024-11-28,Present,2024-11-28,
+P008,2024-11-29,Present,11-29-2024,
+P008,2024-12-02,Present,02/12/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2024-12-03,Present,2024-12-03,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2024-12-04,Present,04/12/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2024-12-05,Present,05/12/2024,
+P008,2024-12-06,Authorised Absence,2024-12-06,
+P008,2024-12-09,Present,2024-12-09,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": true}"
+P008,2024-12-10,P,10/12/2024,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2024-12-11,P,2024-12-11,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2024-12-12,Present,2024-12-12,
+P008,2024-12-13,Present,2024-12-13,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2024-12-16,Present,16/12/2024,
+P008,2024-12-17,present,2024-12-17,
+P008,2024-12-18,Present,2024-12-18,
+P008,2024-12-19,I,2024-12-19,
+P008,2024-12-20,Authorised Absence,12-20-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2025-01-06,Present,2025-01-06,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2025-01-07,Present,01-07-2025,
+P008,2025-01-08,Present,08/01/2025,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P008,2025-01-09,Present,2025-01-09,
+P008,2025-01-10,Authorised Absence,2025-01-10,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2025-01-13,Present,2025-01-13,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2025-01-14,,14/01/2025,
+P008,2025-01-15,Present,2025-01-15,
+P008,2025-01-16,Authorised Absence,2025-01-16,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2025-01-17,Present,17/01/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2025-01-20,Present,20/01/2025,
+P008,2025-01-21,Authorised Absence,2025-01-21,
+P008,2025-01-22,Present,2025-01-22,
+P008,2025-01-23,present,23/01/2025,
+P008,2025-01-24,Present,2025-01-24,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2025-01-27,Present,2025-01-27,
+P008,2025-01-28,Authorised Absence,2025-01-28,
+P008,2025-01-29,Present,29/01/2025,
+P008,2025-01-30,present,2025-01-30,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2025-01-31,Present,31/01/2025,
+P008,2025-02-03,P,02-03-2025,
+P008,2025-02-04,Present,2025-02-04,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2025-02-05,Present,2025-02-05,
+P008,2025-02-06,Present,2025-02-06,
+P008,2025-02-07,Present,02-07-2025,
+P008,2025-02-10,Present,2025-02-10,
+P008,2025-02-11,Present,11/02/2025,
+P008,2025-02-12,Present,02-12-2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2025-02-13,Present,2025-02-13,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2025-02-14,Present,2025-02-14,
+P008,2025-02-24,U,2025-02-24,
+P008,2025-02-25,Present,2025-02-25,
+P008,2025-02-26,Present,2025-02-26,
+P008,2025-02-27,Present,2025-02-27,
+P008,2025-02-28,Present,28/02/2025,
+P008,2025-03-03,P,03-03-2025,
+P008,2025-03-04,present,2025-03-04,
+P008,2025-03-05,Present,2025-03-05,
+P008,2025-03-06,Present,2025-03-06,
+P008,2025-03-07,present,2025-03-07,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2025-03-10,Present,2025-03-10,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2025-03-11,Present,2025-03-11,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2025-03-12,Present,12/03/2025,
+P008,2025-03-13,Present,2025-03-13,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2025-03-14,present,2025-03-14,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2025-03-17,Present,03-17-2025,
+P008,2025-03-18,Present,2025-03-18,
+P008,2025-03-19,Present,03-19-2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2025-03-20,,2025-03-20,
+P008,2025-03-21,Present,2025-03-21,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": true}"
+P008,2025-03-24,Present,2025-03-24,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2025-03-25,present,25/03/2025,
+P008,2025-03-26,Present,2025-03-26,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2025-03-27,Present,2025-03-27,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P008,2025-03-28,Present,2025-03-28,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P009,2024-09-02,Present,02/09/2024,
+P009,2024-09-03,Present,2024-09-03,
+P009,2024-09-04,Present,2024-09-04,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P009,2024-09-05,Present,09-05-2024,
+P009,2024-09-06,Present,2024-09-06,
+P009,2024-09-09,Present,2024-09-09,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P009,2024-09-10,Authorised Absence,10/09/2024,
+P009,2024-09-11,present,2024-09-11,
+P009,2024-09-12,Present,2024-09-12,
+P009,2024-09-13,Present,2024-09-13,
+P009,2024-09-16,Present,2024-09-16,
+P009,2024-09-17,Present,2024-09-17,
+P009,2024-09-18,Present,2024-09-18,
+P009,2024-09-19,Present,2024-09-19,
+P009,2024-09-20,Present,20/09/2024,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P009,2024-09-23,Unauthorised,2024-09-23,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P009,2024-09-24,Present,2024-09-24,
+P009,2024-09-25,Present,2024-09-25,
+P009,2024-09-26,Present,26/09/2024,
+P009,2024-09-27,Present,2024-09-27,
+P009,2024-09-30,,2024-09-30,
+P009,2024-10-01,Unauthorised,2024-10-01,
+P009,2024-10-02,Present,2024-10-02,
+P009,2024-10-03,Present,2024-10-03,
+P009,2024-10-04,N/A,2024-10-04,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P009,2024-10-07,Illness,2024-10-07,
+P009,2024-10-08,I,2024-10-08,
+P009,2024-10-09,Present,2024-10-09,
+P009,2024-10-10,Present,10/10/2024,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": true}"
+P009,2024-10-11,P,11/10/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P009,2024-10-14,Present,2024-10-14,
+P009,2024-10-15,Present,10-15-2024,
+P009,2024-10-16,Present,2024-10-16,
+P009,2024-10-17,Present,2024-10-17,
+P009,2024-10-18,Illness,2024-10-18,
+P009,2024-10-21,Present,2024-10-21,
+P009,2024-10-22,present,2024-10-22,
+P009,2024-10-23,Present,2024-10-23,
+P009,2024-10-24,Present,10-24-2024,
+P009,2024-10-25,U,2024-10-25,
+P009,2024-11-04,Present,04/11/2024,
+P009,2024-11-05,Present,2024-11-05,
+P009,2024-11-06,Present,2024-11-06,
+P009,2024-11-07,Present,07/11/2024,
+P009,2024-11-08,Present,2024-11-08,
+P009,2024-11-11,Present,11/11/2024,
+P009,2024-11-12,Authorised Absence,2024-11-12,
+P009,2024-11-13,present,2024-11-13,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P009,2024-11-14,Present,2024-11-14,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P009,2024-11-15,Illness,2024-11-15,
+P009,2024-11-18,Present,11-18-2024,
+P009,2024-11-19,Present,19/11/2024,
+P009,2024-11-20,Present,20/11/2024,
+P009,2024-11-21,Present,11-21-2024,
+P009,2024-11-22,present,2024-11-22,
+P009,2024-11-25,Present,2024-11-25,
+P009,2024-11-26,ill,2024-11-26,
+P009,2024-11-27,Present,2024-11-27,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P009,2024-11-28,Present,2024-11-28,
+P009,2024-11-29,Present,2024-11-29,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P009,2024-12-02,Present,2024-12-02,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P009,2024-12-03,Present,2024-12-03,
+P009,2024-12-04,Present,2024-12-04,
+P009,2024-12-05,Present,2024-12-05,
+P009,2024-12-06,Present,2024-12-06,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P009,2024-12-09,Present,2024-12-09,
+P009,2024-12-10,Illness,10/12/2024,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P009,2024-12-11,Present,2024-12-11,
+P009,2024-12-12,Present,2024-12-12,
+P009,2024-12-13,P,2024-12-13,
+P009,2024-12-16,Present,2024-12-16,
+P009,2024-12-17,Present,2024-12-17,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P009,2024-12-18,Present,2024-12-18,
+P009,2024-12-19,,19/12/2024,
+P009,2024-12-20,Present,20/12/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P009,2025-01-06,P,06/01/2025,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": true}"
+P009,2025-01-07,Present,2025-01-07,
+P009,2025-01-08,Present,08/01/2025,
+P009,2025-01-09,Present,09/01/2025,
+P009,2025-01-10,Present,10/01/2025,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P009,2025-01-13,Present,2025-01-13,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P009,2025-01-14,Present,2025-01-14,
+P009,2025-01-15,Present,2025-01-15,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P009,2025-01-16,Present,16/01/2025,
+P009,2025-01-17,Present,17/01/2025,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": true}"
+P009,2025-01-20,Illness,2025-01-20,
+P009,2025-01-21,U,01-21-2025,
+P009,2025-01-22,Present,2025-01-22,
+P009,2025-01-23,Present,23/01/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P009,2025-01-24,Present,2025-01-24,
+P009,2025-01-27,Present,2025-01-27,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P009,2025-01-28,present,2025-01-28,
+P009,2025-01-29,Present,2025-01-29,
+P009,2025-01-30,Present,2025-01-30,
+P009,2025-01-31,Present,2025-01-31,
+P009,2025-02-03,Present,2025-02-03,
+P009,2025-02-04,Present,02-04-2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P009,2025-02-05,Present,2025-02-05,
+P009,2025-02-06,Illness,2025-02-06,
+P009,2025-02-07,U,2025-02-07,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P009,2025-02-10,Present,2025-02-10,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P009,2025-02-11,Present,2025-02-11,
+P009,2025-02-12,,2025-02-12,
+P009,2025-02-13,Present,2025-02-13,
+P009,2025-02-14,Illness,2025-02-14,
+P009,2025-02-24,Present,2025-02-24,
+P009,2025-02-25,Present,2025-02-25,
+P009,2025-02-26,Present,2025-02-26,
+P009,2025-02-27,Present,2025-02-27,
+P009,2025-02-28,Present,02-28-2025,
+P009,2025-03-03,Present,2025-03-03,
+P009,2025-03-04,Present,2025-03-04,
+P009,2025-03-05,Present,05/03/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P009,2025-03-06,Present,2025-03-06,
+P009,2025-03-07,Present,2025-03-07,
+P009,2025-03-10,Present,10/03/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P009,2025-03-11,Present,2025-03-11,
+P009,2025-03-12,Present,03-12-2025,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P009,2025-03-13,Present,2025-03-13,
+P009,2025-03-14,Present,14/03/2025,
+P009,2025-03-17,Present,2025-03-17,
+P009,2025-03-18,Present,2025-03-18,
+P009,2025-03-19,Present,2025-03-19,
+P009,2025-03-20,P,20/03/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P009,2025-03-21,present,03-21-2025,
+P009,2025-03-24,I,24/03/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P009,2025-03-25,Present,2025-03-25,
+P009,2025-03-26,ill,2025-03-26,
+P009,2025-03-27,Present,2025-03-27,
+P009,2025-03-28,Present,2025-03-28,
+P010,2024-09-02,Present,02/09/2024,
+P010,2024-09-03,Present,2024-09-03,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P010,2024-09-04,Present,2024-09-04,
+P010,2024-09-05,Present,05/09/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P010,2024-09-06,present,2024-09-06,
+P010,2024-09-09,Present,2024-09-09,
+P010,2024-09-10,Present,2024-09-10,
+P010,2024-09-11,Present,2024-09-11,
+P010,2024-09-12,Present,2024-09-12,
+P010,2024-09-13,Present,2024-09-13,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P010,2024-09-16,Present,2024-09-16,
+P010,2024-09-17,Present,2024-09-17,
+P010,2024-09-18,Present,2024-09-18,
+P010,2024-09-19,Present,2024-09-19,
+P010,2024-09-20,Present,2024-09-20,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P010,2024-09-23,Present,23/09/2024,
+P010,2024-09-24,Present,2024-09-24,"{""am"": ""Absent"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P010,2024-09-25,Present,2024-09-25,
+P010,2024-09-26,Present,2024-09-26,
+P010,2024-09-27,Authorised Absence,2024-09-27,
+P010,2024-09-30,Present,2024-09-30,
+P010,2024-10-01,Present,01/10/2024,
+P010,2024-10-02,N/A,2024-10-02,
+P010,2024-10-03,Present,03/10/2024,
+P010,2024-10-04,Present,10-04-2024,
+P010,2024-10-07,Present,2024-10-07,
+P010,2024-10-08,Present,2024-10-08,
+P010,2024-10-09,Present,2024-10-09,
+P010,2024-10-10,Present,2024-10-10,
+P010,2024-10-11,Present,2024-10-11,
+P010,2024-10-14,Present,2024-10-14,
+P010,2024-10-15,Present,2024-10-15,
+P010,2024-10-16,I,2024-10-16,
+P010,2024-10-17,Present,10-17-2024,
+P010,2024-10-18,Present,2024-10-18,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P010,2024-10-21,Present,10-21-2024,
+P010,2024-10-22,Present,22/10/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P010,2024-10-23,U,23/10/2024,
+P010,2024-10-24,Present,2024-10-24,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P010,2024-10-25,Present,2024-10-25,
+P010,2024-11-04,P,2024-11-04,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P010,2024-11-05,ill,2024-11-05,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P010,2024-11-06,Present,06/11/2024,
+P010,2024-11-07,Present,2024-11-07,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P010,2024-11-08,Present,2024-11-08,
+P010,2024-11-11,present,11/11/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P010,2024-11-12,I,2024-11-12,
+P010,2024-11-13,Authorised Absence,13/11/2024,
+P010,2024-11-14,Illness,2024-11-14,
+P010,2024-11-15,U,2024-11-15,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P010,2024-11-18,Present,18/11/2024,
+P010,2024-11-19,Present,19/11/2024,
+P010,2024-11-20,Present,11-20-2024,
+P010,2024-11-21,Present,21/11/2024,
+P010,2024-11-22,Present,2024-11-22,
+P010,2024-11-25,Present,2024-11-25,
+P010,2024-11-26,Present,26/11/2024,
+P010,2024-11-27,Present,2024-11-27,
+P010,2024-11-28,present,28/11/2024,
+P010,2024-11-29,Present,2024-11-29,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P010,2024-12-02,Present,02/12/2024,
+P010,2024-12-03,Authorised Absence,2024-12-03,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P010,2024-12-04,Present,2024-12-04,
+P010,2024-12-05,Present,2024-12-05,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": true}"
+P010,2024-12-06,present,2024-12-06,
+P010,2024-12-09,Present,2024-12-09,"{""am"": ""Absent"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P010,2024-12-10,ill,10/12/2024,
+P010,2024-12-11,P,2024-12-11,
+P010,2024-12-12,Present,2024-12-12,
+P010,2024-12-13,Present,2024-12-13,
+P010,2024-12-16,I,2024-12-16,
+P010,2024-12-17,Present,2024-12-17,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P010,2024-12-18,Present,18/12/2024,
+P010,2024-12-19,N/A,19/12/2024,
+P010,2024-12-20,Present,2024-12-20,
+P010,2025-01-06,P,2025-01-06,
+P010,2025-01-07,Present,2025-01-07,
+P010,2025-01-08,Present,2025-01-08,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P010,2025-01-09,Present,2025-01-09,
+P010,2025-01-10,Present,10/01/2025,
+P010,2025-01-13,Present,2025-01-13,
+P010,2025-01-14,Present,2025-01-14,
+P010,2025-01-15,Present,15/01/2025,
+P010,2025-01-16,Present,2025-01-16,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P010,2025-01-17,Present,2025-01-17,
+P010,2025-01-20,I,01-20-2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P010,2025-01-21,Present,01-21-2025,
+P010,2025-01-22,Present,2025-01-22,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P010,2025-01-23,Present,23/01/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P010,2025-01-24,Present,2025-01-24,
+P010,2025-01-27,Present,2025-01-27,
+P010,2025-01-28,Present,01-28-2025,
+P010,2025-01-29,ill,2025-01-29,
+P010,2025-01-30,Present,2025-01-30,
+P010,2025-01-31,Present,2025-01-31,
+P010,2025-02-03,Present,02-03-2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P010,2025-02-04,Illness,2025-02-04,
+P010,2025-02-05,Present,05/02/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P010,2025-02-06,Present,2025-02-06,
+P010,2025-02-07,Present,2025-02-07,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P010,2025-02-10,,2025-02-10,
+P010,2025-02-11,Present,2025-02-11,
+P010,2025-02-12,Present,2025-02-12,
+P010,2025-02-13,Present,02-13-2025,
+P010,2025-02-14,Authorised Absence,2025-02-14,
+P010,2025-02-24,Present,02-24-2025,
+P010,2025-02-25,Unauthorised,2025-02-25,
+P010,2025-02-26,Present,26/02/2025,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P010,2025-02-27,Present,2025-02-27,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": true}"
+P010,2025-02-28,P,2025-02-28,
+P010,2025-03-03,P,03-03-2025,
+P010,2025-03-04,Present,2025-03-04,
+P010,2025-03-05,Present,05/03/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P010,2025-03-06,Present,2025-03-06,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P010,2025-03-07,Present,2025-03-07,
+P010,2025-03-10,Present,2025-03-10,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P010,2025-03-11,Present,2025-03-11,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P010,2025-03-12,Present,2025-03-12,
+P010,2025-03-13,Unauthorised,2025-03-13,
+P010,2025-03-14,Present,2025-03-14,
+P010,2025-03-17,Authorised Absence,2025-03-17,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P010,2025-03-18,P,2025-03-18,
+P010,2025-03-19,Present,03-19-2025,
+P010,2025-03-20,Present,2025-03-20,
+P010,2025-03-21,Present,21/03/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P010,2025-03-24,Present,2025-03-24,
+P010,2025-03-25,Present,2025-03-25,
+P010,2025-03-26,Present,2025-03-26,
+P010,2025-03-27,Present,2025-03-27,
+P010,2025-03-28,Present,03-28-2025,
+P016,2024-09-02,Present,2024-09-02,
+P016,2024-09-03,Present,2024-09-03,
+P016,2024-09-04,Present,2024-09-04,
+P016,2024-09-05,Present,2024-09-05,
+P016,2024-09-06,Present,2024-09-06,
+P016,2024-09-09,Present,2024-09-09,
+P016,2024-09-10,Present,2024-09-10,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P016,2024-09-11,Present,2024-09-11,
+P016,2024-09-12,Authorised Absence,2024-09-12,
+P016,2024-09-13,Present,2024-09-13,
+P016,2024-09-16,Present,2024-09-16,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P016,2024-09-17,Present,2024-09-17,
+P016,2024-09-18,Present,18/09/2024,
+P016,2024-09-19,Present,19/09/2024,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P016,2024-09-20,Authorised Absence,20/09/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P016,2024-09-23,ill,2024-09-23,
+P016,2024-09-24,Illness,2024-09-24,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P016,2024-09-25,Present,2024-09-25,
+P016,2024-09-26,Present,2024-09-26,
+P016,2024-09-27,present,2024-09-27,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P016,2024-09-30,Present,2024-09-30,
+P016,2024-10-01,Present,2024-10-01,
+P016,2024-10-02,Present,2024-10-02,
+P016,2024-10-03,P,2024-10-03,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P016,2024-10-04,present,2024-10-04,
+P016,2024-10-07,Present,10-07-2024,
+P016,2024-10-08,Authorised Absence,2024-10-08,
+P016,2024-10-09,Present,2024-10-09,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P016,2024-10-10,Present,10/10/2024,
+P016,2024-10-11,N/A,11/10/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P016,2024-10-14,Present,2024-10-14,
+P016,2024-10-15,Present,10-15-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P016,2024-10-16,Present,2024-10-16,
+P016,2024-10-17,Present,2024-10-17,
+P016,2024-10-18,Unauthorised,10-18-2024,
+P016,2024-10-21,N/A,2024-10-21,
+P016,2024-10-22,Present,2024-10-22,
+P016,2024-10-23,Present,2024-10-23,
+P016,2024-10-24,Present,24/10/2024,
+P016,2024-10-25,ill,2024-10-25,
+P016,2024-11-04,Present,2024-11-04,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P016,2024-11-05,Present,2024-11-05,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P016,2024-11-06,Present,11-06-2024,
+P016,2024-11-07,Present,07/11/2024,
+P016,2024-11-08,present,2024-11-08,
+P016,2024-11-11,Present,11-11-2024,
+P016,2024-11-12,Present,2024-11-12,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P016,2024-11-13,Present,2024-11-13,
+P016,2024-11-14,Present,14/11/2024,
+P016,2024-11-15,P,2024-11-15,
+P016,2024-11-18,Present,2024-11-18,
+P016,2024-11-19,Present,2024-11-19,
+P016,2024-11-20,Present,2024-11-20,
+P016,2024-11-21,Present,2024-11-21,
+P016,2024-11-22,Present,2024-11-22,
+P016,2024-11-25,present,2024-11-25,
+P016,2024-11-26,Present,26/11/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P016,2024-11-27,Present,2024-11-27,
+P016,2024-11-28,Present,2024-11-28,
+P016,2024-11-29,Present,11-29-2024,
+P016,2024-12-02,present,02/12/2024,
+P016,2024-12-03,Present,2024-12-03,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P016,2024-12-04,Present,2024-12-04,
+P016,2024-12-05,Present,2024-12-05,
+P016,2024-12-06,Present,2024-12-06,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P016,2024-12-09,Present,09/12/2024,
+P016,2024-12-10,Present,2024-12-10,
+P016,2024-12-11,Present,11/12/2024,
+P016,2024-12-12,Present,12/12/2024,
+P016,2024-12-13,Present,2024-12-13,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P016,2024-12-16,I,12-16-2024,
+P016,2024-12-17,Present,17/12/2024,
+P016,2024-12-18,Present,2024-12-18,
+P016,2024-12-19,Unauthorised,2024-12-19,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P016,2024-12-20,Present,2024-12-20,
+P016,2025-01-06,P,01-06-2025,
+P016,2025-01-07,Present,07/01/2025,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P016,2025-01-08,I,08/01/2025,
+P016,2025-01-09,ill,01-09-2025,
+P016,2025-01-10,Present,10/01/2025,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P016,2025-01-13,Authorised Absence,2025-01-13,
+P016,2025-01-14,Present,2025-01-14,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": true}"
+P016,2025-01-15,Present,2025-01-15,
+P016,2025-01-16,I,2025-01-16,
+P016,2025-01-17,Present,01-17-2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P016,2025-01-20,Present,2025-01-20,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P016,2025-01-21,Present,21/01/2025,
+P016,2025-01-22,P,2025-01-22,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P016,2025-01-23,Present,2025-01-23,
+P016,2025-01-24,Present,24/01/2025,
+P016,2025-01-27,Present,2025-01-27,
+P016,2025-01-28,Present,2025-01-28,
+P016,2025-01-29,Present,2025-01-29,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P016,2025-01-30,Present,01-30-2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P016,2025-01-31,Present,2025-01-31,
+P016,2025-02-03,Present,03/02/2025,
+P016,2025-02-04,Present,2025-02-04,
+P016,2025-02-05,Present,05/02/2025,
+P016,2025-02-06,Authorised Absence,2025-02-06,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P016,2025-02-07,Present,02-07-2025,
+P016,2025-02-10,Present,10/02/2025,
+P016,2025-02-11,Present,2025-02-11,
+P016,2025-02-12,Authorised Absence,2025-02-12,
+P016,2025-02-13,ill,2025-02-13,
+P016,2025-02-14,Illness,2025-02-14,
+P016,2025-02-24,Present,2025-02-24,
+P016,2025-02-25,present,2025-02-25,
+P016,2025-02-26,Present,2025-02-26,
+P016,2025-02-27,Illness,2025-02-27,
+P016,2025-02-28,Present,2025-02-28,
+P016,2025-03-03,Present,03/03/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P016,2025-03-04,Present,03-04-2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P016,2025-03-05,Present,05/03/2025,
+P016,2025-03-06,P,2025-03-06,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P016,2025-03-07,Present,2025-03-07,
+P016,2025-03-10,Present,2025-03-10,
+P016,2025-03-11,Present,2025-03-11,
+P016,2025-03-12,Present,12/03/2025,
+P016,2025-03-13,present,03-13-2025,
+P016,2025-03-14,I,2025-03-14,
+P016,2025-03-17,present,2025-03-17,
+P016,2025-03-18,Present,18/03/2025,
+P016,2025-03-19,Present,2025-03-19,
+P016,2025-03-20,Present,2025-03-20,
+P016,2025-03-21,Present,21/03/2025,
+P016,2025-03-24,Present,03-24-2025,
+P016,2025-03-25,Present,2025-03-25,
+P016,2025-03-26,present,26/03/2025,
+P016,2025-03-27,Present,2025-03-27,
+P016,2025-03-28,Authorised Absence,2025-03-28,
+P017,2024-09-02,Present,09-02-2024,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P017,2024-09-03,Present,2024-09-03,
+P017,2024-09-04,Present,2024-09-04,
+P017,2024-09-05,Authorised Absence,2024-09-05,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P017,2024-09-06,Present,06/09/2024,
+P017,2024-09-09,Present,2024-09-09,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P017,2024-09-10,Illness,09-10-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P017,2024-09-11,Present,2024-09-11,
+P017,2024-09-12,I,2024-09-12,
+P017,2024-09-13,Present,2024-09-13,
+P017,2024-09-16,Present,16/09/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P017,2024-09-17,Present,2024-09-17,
+P017,2024-09-18,present,2024-09-18,
+P017,2024-09-19,Present,09-19-2024,
+P017,2024-09-20,Present,2024-09-20,
+P017,2024-09-23,Present,2024-09-23,
+P017,2024-09-24,Present,2024-09-24,
+P017,2024-09-25,I,25/09/2024,
+P017,2024-09-26,,2024-09-26,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P017,2024-09-27,Present,2024-09-27,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P017,2024-09-30,Present,2024-09-30,
+P017,2024-10-01,Present,10-01-2024,
+P017,2024-10-02,P,2024-10-02,
+P017,2024-10-03,Present,2024-10-03,
+P017,2024-10-04,Present,2024-10-04,
+P017,2024-10-07,Present,2024-10-07,
+P017,2024-10-08,Present,2024-10-08,
+P017,2024-10-09,Present,10-09-2024,
+P017,2024-10-10,Present,2024-10-10,
+P017,2024-10-11,Present,2024-10-11,
+P017,2024-10-14,Present,2024-10-14,
+P017,2024-10-15,Present,10-15-2024,
+P017,2024-10-16,Present,2024-10-16,
+P017,2024-10-17,ill,2024-10-17,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P017,2024-10-18,present,2024-10-18,
+P017,2024-10-21,Present,2024-10-21,
+P017,2024-10-22,Present,22/10/2024,
+P017,2024-10-23,Present,2024-10-23,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P017,2024-10-24,Present,2024-10-24,
+P017,2024-10-25,Present,2024-10-25,
+P017,2024-11-04,Authorised Absence,04/11/2024,
+P017,2024-11-05,Present,11-05-2024,
+P017,2024-11-06,present,2024-11-06,
+P017,2024-11-07,Authorised Absence,2024-11-07,
+P017,2024-11-08,Present,08/11/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P017,2024-11-11,Present,2024-11-11,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": true}"
+P017,2024-11-12,Present,12/11/2024,
+P017,2024-11-13,Authorised Absence,13/11/2024,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P017,2024-11-14,P,14/11/2024,
+P017,2024-11-15,Present,15/11/2024,
+P017,2024-11-18,Present,2024-11-18,
+P017,2024-11-19,I,2024-11-19,
+P017,2024-11-20,Present,11-20-2024,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P017,2024-11-21,Present,2024-11-21,
+P017,2024-11-22,Present,11-22-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P017,2024-11-25,Present,25/11/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P017,2024-11-26,Authorised Absence,11-26-2024,
+P017,2024-11-27,I,2024-11-27,
+P017,2024-11-28,Illness,2024-11-28,
+P017,2024-11-29,P,2024-11-29,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P017,2024-12-02,Present,2024-12-02,
+P017,2024-12-03,Present,03/12/2024,
+P017,2024-12-04,U,2024-12-04,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P017,2024-12-05,Present,2024-12-05,
+P017,2024-12-06,Present,2024-12-06,"{""am"": ""Absent"", ""pm"": ""Absent"", ""late_arrival"": true}"
+P017,2024-12-09,Present,2024-12-09,
+P017,2024-12-10,Present,2024-12-10,
+P017,2024-12-11,Present,2024-12-11,
+P017,2024-12-12,Present,2024-12-12,
+P017,2024-12-13,Present,2024-12-13,
+P017,2024-12-16,Present,2024-12-16,
+P017,2024-12-17,U,17/12/2024,
+P017,2024-12-18,Present,18/12/2024,
+P017,2024-12-19,Present,2024-12-19,
+P017,2024-12-20,Present,2024-12-20,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P017,2025-01-06,Present,2025-01-06,
+P017,2025-01-07,Present,2025-01-07,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P017,2025-01-08,Present,2025-01-08,
+P017,2025-01-09,Present,09/01/2025,
+P017,2025-01-10,Present,2025-01-10,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P017,2025-01-13,Present,01-13-2025,
+P017,2025-01-14,Present,2025-01-14,
+P017,2025-01-15,Present,2025-01-15,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P017,2025-01-16,Present,16/01/2025,
+P017,2025-01-17,Present,2025-01-17,
+P017,2025-01-20,Present,2025-01-20,
+P017,2025-01-21,Present,2025-01-21,
+P017,2025-01-22,Present,2025-01-22,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P017,2025-01-23,Present,23/01/2025,
+P017,2025-01-24,Present,2025-01-24,
+P017,2025-01-27,Present,2025-01-27,
+P017,2025-01-28,Present,2025-01-28,
+P017,2025-01-29,Present,29/01/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P017,2025-01-30,P,01-30-2025,
+P017,2025-01-31,Present,31/01/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P017,2025-02-03,Present,2025-02-03,
+P017,2025-02-04,Present,2025-02-04,
+P017,2025-02-05,present,2025-02-05,
+P017,2025-02-06,Present,2025-02-06,
+P017,2025-02-07,Present,02-07-2025,
+P017,2025-02-10,Present,2025-02-10,
+P017,2025-02-11,ill,2025-02-11,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P017,2025-02-12,Present,2025-02-12,
+P017,2025-02-13,Present,2025-02-13,
+P017,2025-02-14,Present,2025-02-14,
+P017,2025-02-24,Present,02-24-2025,
+P017,2025-02-25,Present,02-25-2025,
+P017,2025-02-26,I,2025-02-26,
+P017,2025-02-27,Present,2025-02-27,
+P017,2025-02-28,Present,2025-02-28,
+P017,2025-03-03,Present,03/03/2025,
+P017,2025-03-04,Present,2025-03-04,
+P017,2025-03-05,,2025-03-05,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P017,2025-03-06,Present,2025-03-06,
+P017,2025-03-07,Present,03-07-2025,
+P017,2025-03-10,Present,2025-03-10,
+P017,2025-03-11,Present,2025-03-11,
+P017,2025-03-12,I,2025-03-12,
+P017,2025-03-13,Authorised Absence,13/03/2025,
+P017,2025-03-14,Present,2025-03-14,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P017,2025-03-17,N/A,2025-03-17,
+P017,2025-03-18,Present,18/03/2025,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P017,2025-03-19,Present,19/03/2025,
+P017,2025-03-20,Present,20/03/2025,
+P017,2025-03-21,Present,03-21-2025,
+P017,2025-03-24,Present,2025-03-24,
+P017,2025-03-25,Present,2025-03-25,
+P017,2025-03-26,Present,2025-03-26,
+P017,2025-03-27,Present,2025-03-27,
+P017,2025-03-28,Present,2025-03-28,
+P018,2024-09-02,Present,2024-09-02,
+P018,2024-09-03,Present,03/09/2024,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": true}"
+P018,2024-09-04,Present,2024-09-04,
+P018,2024-09-05,Present,05/09/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P018,2024-09-06,Present,09-06-2024,
+P018,2024-09-09,Present,2024-09-09,
+P018,2024-09-10,Present,2024-09-10,
+P018,2024-09-11,Present,11/09/2024,
+P018,2024-09-12,U,12/09/2024,
+P018,2024-09-13,Present,2024-09-13,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P018,2024-09-16,Present,16/09/2024,
+P018,2024-09-17,Present,09-17-2024,
+P018,2024-09-18,present,09-18-2024,
+P018,2024-09-19,Present,2024-09-19,
+P018,2024-09-20,Illness,20/09/2024,
+P018,2024-09-23,Present,2024-09-23,
+P018,2024-09-24,Present,2024-09-24,
+P018,2024-09-25,Present,25/09/2024,
+P018,2024-09-26,Present,2024-09-26,
+P018,2024-09-27,Present,2024-09-27,
+P018,2024-09-30,Present,2024-09-30,
+P018,2024-10-01,Illness,2024-10-01,
+P018,2024-10-02,present,02/10/2024,
+P018,2024-10-03,P,2024-10-03,
+P018,2024-10-04,Present,2024-10-04,
+P018,2024-10-07,Present,2024-10-07,
+P018,2024-10-08,Present,10-08-2024,
+P018,2024-10-09,I,2024-10-09,
+P018,2024-10-10,Present,10/10/2024,
+P018,2024-10-11,Illness,2024-10-11,
+P018,2024-10-14,Present,2024-10-14,
+P018,2024-10-15,Present,2024-10-15,
+P018,2024-10-16,Present,2024-10-16,
+P018,2024-10-17,Present,2024-10-17,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P018,2024-10-18,Present,2024-10-18,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P018,2024-10-21,Present,2024-10-21,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P018,2024-10-22,Present,2024-10-22,
+P018,2024-10-23,Present,2024-10-23,
+P018,2024-10-24,Present,24/10/2024,
+P018,2024-10-25,I,10-25-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P018,2024-11-04,Present,04/11/2024,
+P018,2024-11-05,Present,2024-11-05,
+P018,2024-11-06,I,06/11/2024,
+P018,2024-11-07,Present,07/11/2024,
+P018,2024-11-08,Authorised Absence,2024-11-08,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P018,2024-11-11,Present,2024-11-11,
+P018,2024-11-12,Present,11-12-2024,
+P018,2024-11-13,Present,2024-11-13,
+P018,2024-11-14,present,14/11/2024,
+P018,2024-11-15,Present,2024-11-15,
+P018,2024-11-18,Present,2024-11-18,
+P018,2024-11-19,Present,19/11/2024,
+P018,2024-11-20,Present,2024-11-20,
+P018,2024-11-21,Present,21/11/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P018,2024-11-22,Present,2024-11-22,
+P018,2024-11-25,Present,2024-11-25,
+P018,2024-11-26,Present,26/11/2024,
+P018,2024-11-27,Present,27/11/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P018,2024-11-28,Authorised Absence,2024-11-28,
+P018,2024-11-29,Present,2024-11-29,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P018,2024-12-02,P,02/12/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P018,2024-12-03,,2024-12-03,
+P018,2024-12-04,Present,04/12/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P018,2024-12-05,present,2024-12-05,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P018,2024-12-06,Present,2024-12-06,
+P018,2024-12-09,Present,2024-12-09,
+P018,2024-12-10,present,2024-12-10,
+P018,2024-12-11,Present,12-11-2024,
+P018,2024-12-12,Present,12/12/2024,
+P018,2024-12-13,Present,2024-12-13,
+P018,2024-12-16,Present,2024-12-16,
+P018,2024-12-17,Present,2024-12-17,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P018,2024-12-18,Present,18/12/2024,
+P018,2024-12-19,Present,2024-12-19,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P018,2024-12-20,Present,2024-12-20,
+P018,2025-01-06,Present,06/01/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P018,2025-01-07,Present,2025-01-07,
+P018,2025-01-08,Present,08/01/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P018,2025-01-09,Present,09/01/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P018,2025-01-10,Present,2025-01-10,
+P018,2025-01-13,Present,2025-01-13,
+P018,2025-01-14,I,2025-01-14,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P018,2025-01-15,present,2025-01-15,
+P018,2025-01-16,ill,01-16-2025,
+P018,2025-01-17,Present,17/01/2025,
+P018,2025-01-20,Present,2025-01-20,
+P018,2025-01-21,Present,2025-01-21,
+P018,2025-01-22,Present,2025-01-22,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P018,2025-01-23,Present,01-23-2025,
+P018,2025-01-24,Present,2025-01-24,
+P018,2025-01-27,Present,01-27-2025,
+P018,2025-01-28,Present,2025-01-28,
+P018,2025-01-29,Authorised Absence,2025-01-29,
+P018,2025-01-30,Present,2025-01-30,
+P018,2025-01-31,Present,2025-01-31,
+P018,2025-02-03,Present,2025-02-03,
+P018,2025-02-04,Present,2025-02-04,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": true}"
+P018,2025-02-05,Present,2025-02-05,
+P018,2025-02-06,present,2025-02-06,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P018,2025-02-07,Present,2025-02-07,
+P018,2025-02-10,Present,2025-02-10,
+P018,2025-02-11,Present,2025-02-11,
+P018,2025-02-12,Authorised Absence,12/02/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P018,2025-02-13,Present,2025-02-13,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P018,2025-02-14,Present,2025-02-14,
+P018,2025-02-24,Present,2025-02-24,
+P018,2025-02-25,Present,25/02/2025,
+P018,2025-02-26,present,02-26-2025,
+P018,2025-02-27,P,2025-02-27,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P018,2025-02-28,Present,2025-02-28,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P018,2025-03-03,Present,2025-03-03,
+P018,2025-03-04,Present,2025-03-04,
+P018,2025-03-05,Present,2025-03-05,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P018,2025-03-06,Present,2025-03-06,
+P018,2025-03-07,Present,2025-03-07,
+P018,2025-03-10,Present,10/03/2025,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P018,2025-03-11,Authorised Absence,11/03/2025,
+P018,2025-03-12,Present,12/03/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P018,2025-03-13,Unauthorised,2025-03-13,
+P018,2025-03-14,Present,14/03/2025,
+P018,2025-03-17,Present,2025-03-17,
+P018,2025-03-18,Authorised Absence,18/03/2025,
+P018,2025-03-19,Present,2025-03-19,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P018,2025-03-20,Present,2025-03-20,
+P018,2025-03-21,Present,2025-03-21,
+P018,2025-03-24,Present,03-24-2025,
+P018,2025-03-25,Present,2025-03-25,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P018,2025-03-26,Present,2025-03-26,
+P018,2025-03-27,Illness,2025-03-27,
+P018,2025-03-28,present,2025-03-28,
+P019,2024-09-02,present,2024-09-02,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2024-09-03,Present,03/09/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2024-09-04,Authorised Absence,2024-09-04,
+P019,2024-09-05,Present,2024-09-05,
+P019,2024-09-06,Present,2024-09-06,
+P019,2024-09-09,Present,2024-09-09,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P019,2024-09-10,Present,2024-09-10,
+P019,2024-09-11,Present,2024-09-11,
+P019,2024-09-12,Present,12/09/2024,
+P019,2024-09-13,Unauthorised,2024-09-13,
+P019,2024-09-16,Authorised Absence,09-16-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2024-09-17,Present,2024-09-17,
+P019,2024-09-18,Illness,2024-09-18,
+P019,2024-09-19,Present,2024-09-19,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2024-09-20,,2024-09-20,
+P019,2024-09-23,Present,2024-09-23,"{""am"": ""Absent"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P019,2024-09-24,Authorised Absence,09-24-2024,
+P019,2024-09-25,Present,09-25-2024,
+P019,2024-09-26,Authorised Absence,26/09/2024,
+P019,2024-09-27,Present,2024-09-27,
+P019,2024-09-30,Present,2024-09-30,
+P019,2024-10-01,Present,2024-10-01,
+P019,2024-10-02,present,2024-10-02,
+P019,2024-10-03,Present,2024-10-03,
+P019,2024-10-04,present,2024-10-04,
+P019,2024-10-07,Present,07/10/2024,
+P019,2024-10-08,Present,08/10/2024,
+P019,2024-10-09,Present,2024-10-09,
+P019,2024-10-10,P,2024-10-10,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2024-10-11,Present,2024-10-11,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P019,2024-10-14,Present,2024-10-14,
+P019,2024-10-15,ill,15/10/2024,
+P019,2024-10-16,I,2024-10-16,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2024-10-17,Present,10-17-2024,
+P019,2024-10-18,Present,18/10/2024,
+P019,2024-10-21,Present,2024-10-21,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2024-10-22,Present,2024-10-22,
+P019,2024-10-23,Present,2024-10-23,
+P019,2024-10-24,Authorised Absence,10-24-2024,
+P019,2024-10-25,present,2024-10-25,
+P019,2024-11-04,Present,11-04-2024,
+P019,2024-11-05,present,2024-11-05,
+P019,2024-11-06,Present,2024-11-06,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2024-11-07,present,2024-11-07,
+P019,2024-11-08,Present,2024-11-08,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2024-11-11,Present,2024-11-11,
+P019,2024-11-12,Present,12/11/2024,
+P019,2024-11-13,,2024-11-13,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P019,2024-11-14,Present,11-14-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2024-11-15,Present,15/11/2024,
+P019,2024-11-18,Present,18/11/2024,
+P019,2024-11-19,Present,2024-11-19,
+P019,2024-11-20,Present,20/11/2024,
+P019,2024-11-21,Present,2024-11-21,
+P019,2024-11-22,Present,22/11/2024,
+P019,2024-11-25,Present,2024-11-25,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P019,2024-11-26,Present,26/11/2024,
+P019,2024-11-27,Present,2024-11-27,
+P019,2024-11-28,Present,28/11/2024,
+P019,2024-11-29,Present,2024-11-29,
+P019,2024-12-02,Present,2024-12-02,
+P019,2024-12-03,Present,2024-12-03,
+P019,2024-12-04,Present,2024-12-04,
+P019,2024-12-05,Present,2024-12-05,
+P019,2024-12-06,Present,12-06-2024,
+P019,2024-12-09,Present,2024-12-09,
+P019,2024-12-10,Present,12-10-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2024-12-11,Present,2024-12-11,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2024-12-12,Present,12/12/2024,
+P019,2024-12-13,P,2024-12-13,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2024-12-16,I,16/12/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2024-12-17,Present,12-17-2024,
+P019,2024-12-18,Present,2024-12-18,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2024-12-19,Present,2024-12-19,
+P019,2024-12-20,Present,2024-12-20,
+P019,2025-01-06,Present,06/01/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2025-01-07,Present,2025-01-07,
+P019,2025-01-08,Present,2025-01-08,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2025-01-09,Present,2025-01-09,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P019,2025-01-10,Present,2025-01-10,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2025-01-13,Illness,2025-01-13,
+P019,2025-01-14,Present,2025-01-14,
+P019,2025-01-15,Present,2025-01-15,
+P019,2025-01-16,Illness,2025-01-16,
+P019,2025-01-17,present,2025-01-17,
+P019,2025-01-20,Present,2025-01-20,
+P019,2025-01-21,Present,01-21-2025,
+P019,2025-01-22,Present,2025-01-22,
+P019,2025-01-23,Present,2025-01-23,
+P019,2025-01-24,Present,2025-01-24,
+P019,2025-01-27,Present,2025-01-27,
+P019,2025-01-28,Present,2025-01-28,
+P019,2025-01-29,Present,2025-01-29,
+P019,2025-01-30,Present,2025-01-30,
+P019,2025-01-31,,2025-01-31,
+P019,2025-02-03,Present,2025-02-03,
+P019,2025-02-04,Present,02-04-2025,
+P019,2025-02-05,Present,2025-02-05,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2025-02-06,Authorised Absence,2025-02-06,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2025-02-07,P,2025-02-07,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2025-02-10,Authorised Absence,2025-02-10,
+P019,2025-02-11,Present,2025-02-11,
+P019,2025-02-12,N/A,2025-02-12,
+P019,2025-02-13,Illness,2025-02-13,
+P019,2025-02-14,Present,2025-02-14,
+P019,2025-02-24,U,24/02/2025,
+P019,2025-02-25,Present,2025-02-25,
+P019,2025-02-26,Present,2025-02-26,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2025-02-27,present,27/02/2025,
+P019,2025-02-28,Present,2025-02-28,
+P019,2025-03-03,Present,03/03/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2025-03-04,Present,2025-03-04,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2025-03-05,Present,05/03/2025,
+P019,2025-03-06,Present,2025-03-06,
+P019,2025-03-07,Present,2025-03-07,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2025-03-10,Present,2025-03-10,
+P019,2025-03-11,N/A,2025-03-11,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2025-03-12,Present,2025-03-12,
+P019,2025-03-13,Present,03-13-2025,
+P019,2025-03-14,Authorised Absence,2025-03-14,
+P019,2025-03-17,Present,03-17-2025,
+P019,2025-03-18,Present,18/03/2025,
+P019,2025-03-19,Present,03-19-2025,
+P019,2025-03-20,Present,2025-03-20,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2025-03-21,Present,2025-03-21,
+P019,2025-03-24,Present,2025-03-24,
+P019,2025-03-25,Present,2025-03-25,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P019,2025-03-26,Present,26/03/2025,
+P019,2025-03-27,Present,2025-03-27,
+P019,2025-03-28,Present,03-28-2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P020,2024-09-02,Present,2024-09-02,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P020,2024-09-03,Present,2024-09-03,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P020,2024-09-04,Present,2024-09-04,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P020,2024-09-05,Present,09-05-2024,
+P020,2024-09-06,Present,2024-09-06,
+P020,2024-09-09,P,09/09/2024,
+P020,2024-09-10,Present,2024-09-10,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P020,2024-09-11,Present,09-11-2024,
+P020,2024-09-12,,2024-09-12,
+P020,2024-09-13,Present,2024-09-13,
+P020,2024-09-16,Present,2024-09-16,
+P020,2024-09-17,Present,17/09/2024,
+P020,2024-09-18,Present,09-18-2024,
+P020,2024-09-19,Present,09-19-2024,
+P020,2024-09-20,Present,20/09/2024,
+P020,2024-09-23,Present,23/09/2024,
+P020,2024-09-24,I,2024-09-24,
+P020,2024-09-25,Present,2024-09-25,
+P020,2024-09-26,Present,2024-09-26,
+P020,2024-09-27,Present,27/09/2024,
+P020,2024-09-30,Present,2024-09-30,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P020,2024-10-01,Present,2024-10-01,
+P020,2024-10-02,Present,2024-10-02,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P020,2024-10-03,Present,2024-10-03,
+P020,2024-10-04,Present,2024-10-04,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P020,2024-10-07,Present,2024-10-07,
+P020,2024-10-08,Authorised Absence,08/10/2024,
+P020,2024-10-09,Present,2024-10-09,
+P020,2024-10-10,Present,10/10/2024,
+P020,2024-10-11,Present,10-11-2024,
+P020,2024-10-14,Present,10-14-2024,
+P020,2024-10-15,Present,2024-10-15,
+P020,2024-10-16,Authorised Absence,10-16-2024,
+P020,2024-10-17,Present,2024-10-17,
+P020,2024-10-18,Present,18/10/2024,
+P020,2024-10-21,Present,2024-10-21,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P020,2024-10-22,I,2024-10-22,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P020,2024-10-23,Authorised Absence,2024-10-23,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P020,2024-10-24,Present,10-24-2024,
+P020,2024-10-25,Present,2024-10-25,
+P020,2024-11-04,Present,2024-11-04,
+P020,2024-11-05,Present,05/11/2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P020,2024-11-06,Present,2024-11-06,
+P020,2024-11-07,Present,2024-11-07,
+P020,2024-11-08,Present,2024-11-08,
+P020,2024-11-11,Present,11/11/2024,
+P020,2024-11-12,Present,2024-11-12,
+P020,2024-11-13,Present,2024-11-13,
+P020,2024-11-14,P,2024-11-14,
+P020,2024-11-15,Present,2024-11-15,
+P020,2024-11-18,Authorised Absence,18/11/2024,
+P020,2024-11-19,Present,19/11/2024,
+P020,2024-11-20,Present,11-20-2024,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P020,2024-11-21,Present,2024-11-21,
+P020,2024-11-22,Present,2024-11-22,
+P020,2024-11-25,Present,25/11/2024,
+P020,2024-11-26,Present,11-26-2024,
+P020,2024-11-27,Present,11-27-2024,
+P020,2024-11-28,Present,28/11/2024,
+P020,2024-11-29,Present,11-29-2024,
+P020,2024-12-02,Present,2024-12-02,
+P020,2024-12-03,Present,2024-12-03,
+P020,2024-12-04,Present,2024-12-04,
+P020,2024-12-05,Present,2024-12-05,
+P020,2024-12-06,Present,2024-12-06,
+P020,2024-12-09,Present,2024-12-09,
+P020,2024-12-10,Present,12-10-2024,
+P020,2024-12-11,Present,11/12/2024,
+P020,2024-12-12,Present,2024-12-12,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P020,2024-12-13,Present,2024-12-13,
+P020,2024-12-16,Present,2024-12-16,
+P020,2024-12-17,Present,2024-12-17,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P020,2024-12-18,Present,2024-12-18,
+P020,2024-12-19,Present,2024-12-19,
+P020,2024-12-20,Present,2024-12-20,
+P020,2025-01-06,Present,2025-01-06,
+P020,2025-01-07,P,07/01/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P020,2025-01-08,Present,2025-01-08,
+P020,2025-01-09,Present,2025-01-09,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P020,2025-01-10,Present,10/01/2025,
+P020,2025-01-13,Present,2025-01-13,
+P020,2025-01-14,Present,14/01/2025,
+P020,2025-01-15,Present,01-15-2025,
+P020,2025-01-16,Present,2025-01-16,
+P020,2025-01-17,Present,2025-01-17,
+P020,2025-01-20,I,2025-01-20,
+P020,2025-01-21,Present,2025-01-21,
+P020,2025-01-22,Present,2025-01-22,
+P020,2025-01-23,Present,2025-01-23,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": true}"
+P020,2025-01-24,Present,2025-01-24,
+P020,2025-01-27,Present,2025-01-27,
+P020,2025-01-28,Present,2025-01-28,
+P020,2025-01-29,Present,2025-01-29,
+P020,2025-01-30,Present,2025-01-30,
+P020,2025-01-31,Present,31/01/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P020,2025-02-03,Present,2025-02-03,
+P020,2025-02-04,Present,2025-02-04,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P020,2025-02-05,Illness,2025-02-05,
+P020,2025-02-06,Present,2025-02-06,
+P020,2025-02-07,P,07/02/2025,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P020,2025-02-10,Present,10/02/2025,
+P020,2025-02-11,Present,2025-02-11,
+P020,2025-02-12,Present,2025-02-12,
+P020,2025-02-13,Present,02-13-2025,
+P020,2025-02-14,Present,2025-02-14,
+P020,2025-02-24,Authorised Absence,2025-02-24,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P020,2025-02-25,Present,2025-02-25,
+P020,2025-02-26,Present,2025-02-26,
+P020,2025-02-27,N/A,2025-02-27,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P020,2025-02-28,Present,2025-02-28,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P020,2025-03-03,I,2025-03-03,
+P020,2025-03-04,Present,03-04-2025,
+P020,2025-03-05,Present,2025-03-05,
+P020,2025-03-06,present,2025-03-06,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P020,2025-03-07,Illness,03-07-2025,
+P020,2025-03-10,Present,2025-03-10,
+P020,2025-03-11,Present,11/03/2025,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P020,2025-03-12,Present,2025-03-12,
+P020,2025-03-13,Present,2025-03-13,
+P020,2025-03-14,Present,2025-03-14,
+P020,2025-03-17,present,2025-03-17,
+P020,2025-03-18,Present,2025-03-18,
+P020,2025-03-19,Present,2025-03-19,"{""am"": ""Present"", ""pm"": ""Present"", ""late_arrival"": false}"
+P020,2025-03-20,Present,2025-03-20,"{""am"": ""Absent"", ""pm"": ""Present"", ""late_arrival"": false}"
+P020,2025-03-21,Present,2025-03-21,"{""am"": ""Present"", ""pm"": ""Absent"", ""late_arrival"": false}"
+P020,2025-03-24,Authorised Absence,2025-03-24,
+P020,2025-03-25,Present,2025-03-25,
+P020,2025-03-26,Present,2025-03-26,
+P020,2025-03-27,Present,2025-03-27,
+P020,2025-03-28,Present,2025-03-28,
